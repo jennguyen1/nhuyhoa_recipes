@@ -1,4 +1,6 @@
-
+#home-jumbotron img{
+  max-height: 300px;
+}
 
 table {
     padding-bottom: 5px;
