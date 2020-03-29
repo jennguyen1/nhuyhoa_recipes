@@ -1,0 +1,43 @@
+table {
+    padding-bottom: 5px;
+    width: 98%;
+}
+
+th {
+    text-align: left;
+}
+
+.presenttab {
+    border-collapse:collapse;
+    margin:auto;
+    border: 1px solid;
+    table-layout: fixed;
+}
+
+.presenttab th {
+  background-color: #BEBEBE	;
+  border-bottom:1px solid;
+  padding: 5px;
+}
+
+.presenttab td {
+  border:1px solid;
+  padding: 5px;
+  font-size: 14px;
+}
+
+
+.presenttabnoh {
+    border-collapse:collapse;
+    margin:auto;
+    border: none;
+}
+
+.presenttabnoh th {
+  display: none;
+}
+
+.presenttabnoh td {
+  border:none;
+  padding: 5px;
+}
