@@ -22,7 +22,7 @@ menu:
     pre: thumbs-up
     url: /post/
     weight: 2
-  - name: Categories
+  - name: Tags
     pre: tag
     url: /tags/
     weight: 3
