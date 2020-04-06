@@ -1,5 +1,5 @@
 ---
-title: "Ga Teriyaki (Teriyaki Chicken)"
+title: "Ga Teriyaki"
 tags: ['Entree']
 ---
 
@@ -8,7 +8,7 @@ library(tidyverse)
 library(RSQLite)
 library(knitr)
 
-recipe_name <- 'Ga Teriyaki (Teriyaki Chicken)'
+recipe_name <- 'Ga Teriyaki'
 connect <- RSQLite::dbConnect(drv = RSQLite::SQLite(), dbname = '../../../data/recipes.db')
 ingredients_query <- glue::glue('SELECT * FROM ingredients WHERE recipe = "{recipe_name}"')
 instructions_query <- glue::glue('SELECT * FROM instructions WHERE recipe = "{recipe_name}"')
