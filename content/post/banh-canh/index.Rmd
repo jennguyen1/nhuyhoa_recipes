@@ -1,6 +1,6 @@
 ---
 title: "Banh Canh (Vietnamese Thick Noodle Soup)"
-tags: ['Entree', 'Vietnamese']
+tags: ['Entree', 'Vietnamese', 'Soup']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}

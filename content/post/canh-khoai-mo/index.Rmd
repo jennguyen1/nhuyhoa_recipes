@@ -1,6 +1,6 @@
 ---
 title: "Canh Khoai Mo (Ube Soup)"
-tags: ['Entree', 'Vietnamese', 'Vegetarianish']
+tags: ['Entree', 'Vietnamese', 'Vegetarianish', 'Soup']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}

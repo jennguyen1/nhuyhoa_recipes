@@ -1,6 +1,6 @@
 ---
 title: "Canh Chua Ca (Sweet and Sour Fish Soup)"
-tags: ['Entree', 'Vietnamese']
+tags: ['Entree', 'Vietnamese', 'Soup']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}

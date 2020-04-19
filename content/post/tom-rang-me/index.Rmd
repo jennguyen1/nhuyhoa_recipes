@@ -1,6 +1,6 @@
 ---
 title: "Tom Rang Me (Shrimp in Tamarind Sauce)"
-tags: ['Entree', 'Vietnamese']
+tags: ['Entree']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}

@@ -1,6 +1,6 @@
 ---
 title: "Thit Kho (Braised and Carmelized Pork Belly with Eggs)"
-tags: ['Entree', 'Vietnamese']
+tags: ['Entree']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}

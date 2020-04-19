@@ -1,6 +1,6 @@
 ---
 title: "Canh Cai Cuc (Chrysanthemum Soup)"
-tags: ['Entree', 'Vietnamese']
+tags: ['Entree', 'Vietnamese', 'Vegetarianish', 'Soup']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}

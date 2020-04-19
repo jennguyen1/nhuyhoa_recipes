@@ -1,6 +1,6 @@
 ---
 title: "Xoi Man"
-tags: ['Entree', 'Vietnamese']
+tags: ['Entree']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}

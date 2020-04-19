@@ -1,6 +1,6 @@
 ---
 title: "Thit Tom Rang (Pork and Shrimp Stir Fry)"
-tags: ['Entree', 'Vietnamese']
+tags: ['Entree']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}

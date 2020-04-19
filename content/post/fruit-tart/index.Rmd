@@ -1,6 +1,6 @@
 ---
 title: "Fruit Tart"
-tags: ['Dessert', 'Vegetarianish']
+tags: ['Dessert']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}

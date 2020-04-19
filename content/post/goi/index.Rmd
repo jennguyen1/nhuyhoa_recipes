@@ -1,6 +1,6 @@
 ---
 title: "Goi (Salad)"
-tags: ['Entree', 'Vietnamese', 'Vegetarianish']
+tags: ['Entree']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}

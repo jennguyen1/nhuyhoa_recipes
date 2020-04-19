@@ -1,6 +1,6 @@
 ---
 title: "Mi Hoanh Thanh (Wonton Noodle Soup)"
-tags: ['Entree', 'Vietnamese']
+tags: ['Entree', 'Vietnamese', 'Soup']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}

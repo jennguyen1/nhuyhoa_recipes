@@ -1,5 +1,7 @@
 .Rhistory
 *Rproj
 .Rproj.user
+data/.DS_Store
 data/recipes.db
 data/food
+data/*JPG

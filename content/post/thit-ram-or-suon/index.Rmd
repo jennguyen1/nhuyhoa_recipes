@@ -1,6 +1,6 @@
 ---
 title: "Thit Ram or Suon (Carmelized Pork Spare Ribs or Belly)"
-tags: ['Entree', 'Vietnamese']
+tags: ['Entree']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}

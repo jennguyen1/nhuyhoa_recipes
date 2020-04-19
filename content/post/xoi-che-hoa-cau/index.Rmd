@@ -1,6 +1,6 @@
 ---
 title: "Xoi Che Hoa Cau"
-tags: ['Dessert', 'Vietnamese', 'Vegetarianish']
+tags: ['Dessert']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}

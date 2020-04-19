@@ -1,6 +1,6 @@
 ---
 title: "Bun Mang Vit (Vietnamese Duck Noodle Soup with Bamboo Shoot)"
-tags: ['Entree', 'Vietnamese']
+tags: ['Entree', 'Vietnamese', 'Soup']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}

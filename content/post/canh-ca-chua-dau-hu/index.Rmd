@@ -1,6 +1,6 @@
 ---
 title: "Canh Ca Chua Dau Hu (Tofu and Tomato Soup)"
-tags: ['Entree', 'Vietnamese']
+tags: ['Entree', 'Vietnamese', 'Vegetarianish', 'Soup']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}

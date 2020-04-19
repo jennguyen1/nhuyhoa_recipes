@@ -1,6 +1,6 @@
 ---
 title: "Spaghetti"
-tags: ['Entree', 'Vegetarianish']
+tags: ['Entree']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}
