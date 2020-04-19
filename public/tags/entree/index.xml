@@ -11,16 +11,6 @@
     
     
     <item>
-      <title>Arroz Con Pollo</title>
-      <link>/arroz-con-pollo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/arroz-con-pollo/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      beer  chicken  carrot     pepper   cilantro     rice   garlic     salt   onion       peas      
- Instructions   instructions      Blend cilantro, onion, garlic, oil and beer to make marinade    Marinate chicken with salt, pepper, and marinade    Clean rice and mix in some salt, marinade, and beer    Cook rice, stir it when done to distribute the greens    Fry the chicken    Eat rice with chicken and steamed peas and carrots      </description>
-    </item>
-    
-    <item>
       <title>Banh Canh (Vietnamese Thick Noodle Soup)</title>
       <link>/banh-canh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -35,7 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/banh-cuon/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      nuoc mam pha  cha  bean sprouts     oil  ground pork  cucumber     rice flour  shrimp  dried fungus mushrooms     salt   green onions     shandong noodles   hanh kho     soy sauce   lettuce     tapioca starch   mint     wonton soup base   shallot       thai basil</description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      nuoc mam pha  cha  bean sprouts     oil  ground pork  cucumber     rice flour  shrimp  dried fungus mushroom     salt   green onions     shandong noodles   hanh kho     soy sauce   lettuce     tapioca starch   mint     wonton soup base   shallot       thai basil</description>
     </item>
     
     <item>
@@ -82,7 +72,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/bo-xao-dau-xanh/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      oyster sauce  beef  garlic     pepper   green beans     salt   mushrooms       shallot      
+      <description> Ingredients   Other  Meat  Veggie  Fruit      oyster sauce  beef  garlic     pepper   green beans     salt   mushroom       shallot      
  Instructions   instructions      Marinate sliced beef with shallots, garlic, salt, pepper, and a pinch of oil    Stir fry beef until cooked but moist (remove excess liquid)    Stir in and cook mushrooms and green beans until soft    Drizzle in diluted oyster sauce (1:1 ratio)      </description>
     </item>
     
@@ -112,7 +102,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/bun-cha-gio/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      bun  ground chicken  carrot     mien  ground pork  cucumber     nuoc mam pha  shrimp  dried fungus mushrooms       lettuce       mint       perilla       shallot</description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      bun  ground chicken  carrot     mien  ground pork  cucumber     nuoc mam pha  shrimp  dried fungus mushroom       lettuce       mint       perilla       shallot</description>
     </item>
     
     <item>
@@ -185,16 +175,6 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
     </item>
     
     <item>
-      <title>Ca Teriyaki (Teriyaki Fish)</title>
-      <link>/ca-teriyaki/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/ca-teriyaki/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      pepper  catfish      salt  salmon fish      teriyaki sauce        
- Instructions   instructions      Marinate fish in salt, pepper, minced shallots and garlic    Fry both sides of fish on medium heat    Pour in teriyaki sauce and cook until thick, spooning onto fish      </description>
-    </item>
-    
-    <item>
       <title>Canh Ca Chua Dau Hu (Tofu and Tomato Soup)</title>
       <link>/canh-ca-chua-dau-hu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -210,7 +190,7 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/canh-cai-cuc/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      chicken broth  ground pork  chrysanthemum     wonton soup base   shallot      
+      <description> Ingredients   Other  Meat  Veggie  Fruit      chicken broth  ground pork  chrysanthemum     wonton soup base   ground chicken       shallot      
  Instructions   instructions      Golden minced shallots    Stir fry ground pork until no longer pink    Add an equal amount of water and chicken broth    Season with wonton soup base    Adjust broth to taste, want it light    Cut chrysanthemums (cai cuc, tung ho) into 3 in lengths, use the stems if they are tender enough    Add steams first then leaves    Bring to a small simmer and then remove from heat      </description>
     </item>
     
@@ -367,8 +347,18 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/eggs-omelette/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      mien  eggs  dried fungus mushrooms     nuoc mam pha  ground pork  onion     pepper   shallot     salt       soy sauce        
+      <description> Ingredients   Other  Meat  Veggie  Fruit      mien  eggs  dried fungus mushroom     nuoc mam pha  ground pork  onion     pepper   shallot     salt       soy sauce        
  Instructions   instructions      Soak mien and a few fungus separately in boiling water for a couple minutes, drain, rinse and repeat    Combine eggs and mixed fillings    Stir fry shallots until golden    Add egg mixture    Cook both sides until golden    Serve with nuoc mam pha      </description>
+    </item>
+    
+    <item>
+      <title>Five Guys Veggie Sandwhich</title>
+      <link>/five-guys-veggie-sandwhich/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/five-guys-veggie-sandwhich/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      butter   lettuce     cheese (Chao vegan)   mushroom     hamburger buns   onion     mayonnaise   tomato     msg        
+ Instructions   instructions      Carmelize onions and mushrooms    Butter and toast the buns    Add mayo on the buns    Form a patty of carmelized onions/mushrooms sprinkle on msg    Add cheese to melt cheese on top    Transfer to bun    Add lettuce &amp;amp; tomato    Assemble veggie sandwich      </description>
     </item>
     
     <item>
@@ -501,7 +491,7 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/green-bean-casserole/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      chicken broth   garlic     cream   green beans     flour   hanh kho     lemon juice   mushrooms     pepper   onion     salt       soy sauce</description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      chicken broth   garlic     cream   green beans     flour   hanh kho     lemon juice   mushroom     pepper   onion     salt       soy sauce</description>
     </item>
     
     <item>
@@ -599,7 +589,7 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/spaghetti/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      Rinaldi sauce  ground beef  mushrooms     spaghetti   onion       shallot       spinach      
+      <description> Ingredients   Other  Meat  Veggie  Fruit      Rinaldi sauce  ground beef  mushroom     spaghetti   onion       shallot       spinach      
  Instructions   instructions      Prepare the noodles    Cook shallots in pot with oil    Cook ground beef and drain meat fat    Add Rinaldi pasta sauce    Simmer    Add nuoc mam for taste    Add mushrooms and onions    Simmer      </description>
     </item>
     

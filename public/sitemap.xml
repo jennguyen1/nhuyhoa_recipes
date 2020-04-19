@@ -7,10 +7,6 @@
   </url>
   
   <url>
-    <loc>/arroz-con-pollo/</loc>
-  </url>
-  
-  <url>
     <loc>/banana-bread/</loc>
   </url>
   
@@ -99,10 +95,6 @@
   </url>
   
   <url>
-    <loc>/ca-teriyaki/</loc>
-  </url>
-  
-  <url>
     <loc>/canh-ca-chua-dau-hu/</loc>
   </url>
   
@@ -184,6 +176,10 @@
   
   <url>
     <loc>/tags/entree/</loc>
+  </url>
+  
+  <url>
+    <loc>/five-guys-veggie-sandwhich/</loc>
   </url>
   
   <url>
@@ -324,6 +320,10 @@
   
   <url>
     <loc>/smoothie/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/soup/</loc>
   </url>
   
   <url>
