@@ -1,6 +1,6 @@
 ---
 title: "Ground Meat"
-tags: ['Other']
+tags: ['Other', 'Vietnamese']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}

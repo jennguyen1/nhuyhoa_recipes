@@ -1,6 +1,6 @@
 ---
 title: "Broth"
-tags: ['Other']
+tags: ['Other', 'Soup']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}

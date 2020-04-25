@@ -1,6 +1,6 @@
 ---
 title: "Ca Mackerel in Miso Sauce"
-tags: ['Entree', 'Vietnamese']
+tags: ['Entree']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}

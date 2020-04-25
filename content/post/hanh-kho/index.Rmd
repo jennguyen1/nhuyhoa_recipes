@@ -1,6 +1,6 @@
 ---
 title: "Hanh Kho"
-tags: ['Other', 'Vietnamese']
+tags: ['Other', 'Vietnamese', 'Vegetarianish']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}

@@ -1,6 +1,6 @@
 ---
 title: "Thit Heo Quay (Roast Pork Belly)"
-tags: ['Entree']
+tags: ['Entree', 'Vietnamese']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}

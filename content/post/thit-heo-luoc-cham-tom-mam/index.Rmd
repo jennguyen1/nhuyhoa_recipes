@@ -1,6 +1,6 @@
 ---
 title: "Thit Heo Luoc Cham Tom Mam (Pork Belly with Fermented Shrimp Paste)"
-tags: ['Entree']
+tags: ['Entree', 'Vietnamese']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}

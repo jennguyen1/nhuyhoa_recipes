@@ -1,6 +1,6 @@
 ---
 title: "Thit Xa Xiu (Char Siu Pork)"
-tags: ['Entree']
+tags: ['Entree', 'Vietnamese']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}

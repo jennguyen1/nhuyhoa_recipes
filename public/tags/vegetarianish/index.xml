@@ -11,12 +11,31 @@
     
     
     <item>
+      <title>7 Layer Bar</title>
+      <link>/7-layer-bar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/7-layer-bar/</guid>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      butter       butterscotch chips       chocolate chips       chopped nuts       coconut flakes       graham crackers       sweetened condensed milk</description>
+    </item>
+    
+    <item>
       <title>Banana Bread</title>
       <link>/banana-bread/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/banana-bread/</guid>
       <description>Ingredients   Other  Meat  Veggie  Fruit      baking powder  eggs   banana    baking soda       butter       cinnamon       flour       pecans       salt       sugar       vanilla       yogurt</description>
+    </item>
+    
+    <item>
+      <title>Banh Flan Ca Phe</title>
+      <link>/banh-flan-ca-phe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/banh-flan-ca-phe/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      Cafe Du Monde coffee  eggs      Longevity sweetened condensed milk       sugar       whole milk        
+ Instructions   instructions      Put 4 spoons of coffee into a coffee press    Pour boiling water into pressor and refill for a total of 3 times    Let coffee cool for several hours    Stir in milk, want a ratio 2 coffee : 1 milk    Caramelize sugar with a little water until golden and coat over cake pan/walls    Crack and beat 8 eggs at room temperature    Stir in 2-3 spoons of sugar    Stir in 1 can of longevity sweetened condensed milk    Stir in coffee    Pour into caramelized coated cake pan    Steam for 20-25 min, want a light boil    Turn off and let cake sit in steamer for 5 min    Set out to cool and then refrigerate    If more coffee desired, pour it onto cake after it has cooled      </description>
     </item>
     
     <item>
@@ -77,6 +96,16 @@
       <guid>/canh-muop-mong-toi/</guid>
       <description> Ingredients   Other  Meat  Veggie  Fruit      pepper  dried shrimp  malabar spinach     salt   shallot     wonton soup base   taiwanese okra      
  Instructions   instructions      Soak fried shrimp in hot water and mash fried shrimp    Stir fry taiwanese okra (luffa) &amp;amp; shallots with salt &amp;amp; pepper    Add bowl of fried shrimp &amp;amp; additional water    Add wonton soup base    Add malabar spinach prior to boiling    Adjust to taste as necessary    Canh spoils easily, so refridgerate when cool      </description>
+    </item>
+    
+    <item>
+      <title>Chao (Porridge)</title>
+      <link>/chao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/chao/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      gio chao quay  chicken  green onions     jasmine rice  ground pork  shallot     pepper       salt       wonton soup base        
+ Instructions   instructions      Make rice    Marinate chicken or pork with salt, pepper &amp;amp; shallots    If using pork, stir fry it    Boil water and add chicken/pork    If using chicken, remove after boiling and shred into strips when cooled    Add rice and boil until it has expanded (~1 hr)    Add wonton soup base    Spoon into bowl and adjust with pepper, gio chao quay, minced green onions      </description>
     </item>
     
     <item>
@@ -169,12 +198,68 @@
     </item>
     
     <item>
+      <title>Fruit Tart</title>
+      <link>/fruit-tart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fruit-tart/</guid>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      butter    any    cinnamon       cornstarch       eggs       flour       graham crackers       salt       sugar       vanilla       whole milk</description>
+    </item>
+    
+    <item>
       <title>Garlic Mashed Potatoes (with Gravy and Hot Honey Sauce)</title>
       <link>/garlic-mashed-potatoes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/garlic-mashed-potatoes/</guid>
       <description>Ingredients   Other  Meat  Veggie  Fruit      apple cider vinegar   garlic     bourbon   potato     butter   shallot     chicken broth       cumin       flour       honey       milk       mustard powder       paprika       pepper       salt       sugar       tomato powder</description>
+    </item>
+    
+    <item>
+      <title>Goi (Salad)</title>
+      <link>/goi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/goi/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      apple cider vinegar   lettuce     pepper   onion     salt   tomato     sugar        
+ Instructions   instructions      In a small bowl, mix sugar, apple cider vinegar, sliced yellow onion, and pinch of black pepper    Slice tomatoes and sprinkle with salt and sugar    Cut lettuce to bite-sided pieces    Mix tomatoes, lettuce and sauce    Serve with rice and a meat dish      </description>
+    </item>
+    
+    <item>
+      <title>Goi Ga (Vietnamese Chicken Salad)</title>
+      <link>/goi-ga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/goi-ga/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      nuoc mam pha  chicken  cabbage     pepper  any  hanh kho     salt   onion     sugar   thai basil     vinegar   vietnamese mint      
+ Instructions   instructions      Chop veggies into thin strips    Add boiled chicken torn into strips    Add chopped Vietnamese mint/coriander (rau ram) and thai basil    Season with salt, pepper and a vinegar/sugar sauce, want sweet and sour    Eat goi with hanh kho and nuoc mam pha      </description>
+    </item>
+    
+    <item>
+      <title>Goi My (Salad American Style)</title>
+      <link>/goi-my/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/goi-my/</guid>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      banana chips   cabbage  avocado    pepper   cilantro  cranberry    pita chips   corn  lime    salt   cucumber  mandarin orange    sugar   edamame  strawberry      mint  watermelon      spinach  any      tomato</description>
+    </item>
+    
+    <item>
+      <title>Goi Salsa (Salsa)</title>
+      <link>/goi-salsa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/goi-salsa/</guid>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      banana chips   cabbage  avocado    pepper   cilantro  lime    pita chips   corn  mandarin orange    salt   cucumber  mango    sugar   edamame       mint       red onion       tomato</description>
+    </item>
+    
+    <item>
+      <title>Granola</title>
+      <link>/granola/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/granola/</guid>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      almonds       banana chips       brown sugar       flax seeds       honey       old fashioned rolled oats       pita chips       rice crispies cereal       salt       vanilla       veggie oil</description>
     </item>
     
     <item>
@@ -187,6 +272,16 @@
     </item>
     
     <item>
+      <title>Hanh Kho</title>
+      <link>/hanh-kho/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/hanh-kho/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit        onion       shallot      
+ Instructions   instructions      Slice shallots or onions into slices    Let it sit for a couple hours in the sun to dry    Heat some oil on low    Mix the slices with some flour    Add the slices to the oil    Remove slices when it has a light golden color    Let the fried slices dry for a few hours in the sun      </description>
+    </item>
+    
+    <item>
       <title>Miso Soup</title>
       <link>/miso-soup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -194,6 +289,95 @@
       <guid>/miso-soup/</guid>
       <description> Ingredients   Other  Meat  Veggie  Fruit      dashi  tofu  green onions     miso  any  seaweed paper       any      
  Instructions   instructions      Boil 4 cups water &amp;amp; 2 tsp of dashi granules    Hydrate seaweed paper in warm water    Reduce heat to medium and add meats/veggies &amp;amp; seaweed    Remove from heat and mix in 3 tbsp of blended miso    Garnish with green onions      </description>
+    </item>
+    
+    <item>
+      <title>Mochi</title>
+      <link>/mochi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/mochi/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      cornstarch       glutinous rice flour       ice cream       sugar        
+ Instructions   instructions      Scoop ice cream into balls and place in muffin cups and freeze until it hardens    Mix a ratio of 2 glutinous rice flour : 3 sugar : 3 water    Add jam flavorings if desired    Cover and microwave for 2 minutes    Mix and microwave for another 40 seconds    Mix until glossy    Add mochi to a tray covered with corn starch    Sprinkle corn starch on top, lightly pat and spread mochi out on tray    Refrigerate for 30-60 min    Cut into mochi square pieces and remove excess starch    Layer mochi pieces between saran wrap    Refrigerate for another 30-60 min    Place ice cream scoop onto mochi and fold up the sides and seal    Use saran wrap to maintain seal    Freeze until the mochi firms up    If there are extra mochi pieces, cut them up into small pieces and freeze to make mini mochis      </description>
+    </item>
+    
+    <item>
+      <title>Nuoc Mam Pha</title>
+      <link>/nuoc-mam-pha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/nuoc-mam-pha/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      nuoc mam   garlic     sugar       vinegar        
+ Instructions   instructions      Add sugar to a large bowl and level out    Pour vinegar into the bowl, slightly over the surface of the sugar    Add nuoc mam, about 1/3 of current level    Mix in water to dilute    Adjust to taste, should be sweet and sour, not salty    Mix in minced garlic      </description>
+    </item>
+    
+    <item>
+      <title>Rau Muong Xao Toi (Stir Fried Water Spinach)</title>
+      <link>/rau-muong-xao-toi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/rau-muong-xao-toi/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      mam tom   garlic       shallot       water spinach      
+ Instructions   instructions      Blanche water spinach (rau muong, ong choy)    Golden minced shallots and garlic    Add in water spinach    Stir in diluted mam tom    Stir fry for few minutes      </description>
+    </item>
+    
+    <item>
+      <title>Royal Tea</title>
+      <link>/royal-tea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/royal-tea/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      creamer       honey       Tea zone golden milk tea        
+ Instructions   instructions      Make tea, combine ingredients and adjust to taste      </description>
+    </item>
+    
+    <item>
+      <title>Smoothie</title>
+      <link>/smoothie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/smoothie/</guid>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      apple juice   spinach  banana    orange juice    blueberries    soy milk    dates    vanilla honey yogurt    mandarin orange       mango       peach       pineapple       strawberry</description>
+    </item>
+    
+    <item>
+      <title>Spaghetti</title>
+      <link>/spaghetti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/spaghetti/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      Rinaldi sauce  ground beef  mushroom     spaghetti   onion       shallot       spinach      
+ Instructions   instructions      Prepare the noodles    Cook shallots in pot with oil    Cook ground beef and drain meat fat    Add Rinaldi pasta sauce    Simmer    Add nuoc mam for taste    Add mushrooms and onions    Simmer      </description>
+    </item>
+    
+    <item>
+      <title>Teriyaki Sauce</title>
+      <link>/teriyaki-sauce/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teriyaki-sauce/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      mirin   garlic     sake   ginger     soy sauce   onion     sugar   shallot      
+ Instructions   instructions      Mix teriyaki sauce: ratio 2 soy sauce : 2 sake : 2 mirin : 1 sugar    Bring mixture to a boil and continuously stir on medium low    Simmer for 10-15 min or until sauce is thickened    When small bubbles start to rise/appear when mixing, pour sauce in glass jar, cool, and refridgerate for 2-3 weeks      </description>
+    </item>
+    
+    <item>
+      <title>Xoi Che Hoa Cau</title>
+      <link>/xoi-che-hoa-cau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/xoi-che-hoa-cau/</guid>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      flavoring extract       peeled mung bean       salt       sugar       tapioca starch       xoi vo        
+ Instructions   instructions      Rinse, soak, steam a few spoons of mung bean (as with xoi vo)    Dissolve 0.</description>
+    </item>
+    
+    <item>
+      <title>Xoi Vo</title>
+      <link>/xoi-vo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/xoi-vo/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      peeled mung bean  cha  hanh kho     salt       sweet rice        
+ Instructions   instructions      Want a ratio of 2 sweet rice : 1 peeled mung bean    Rinse and soak each separately in cold water overnight    Rinse and and drain separately    Let the rice sit and dry while you work on the mung beans    Steam mung bean for 15-20 min, it should hold its shape but can be smashed between fingers    Granulate mung been until powdery    Mix rice with mung bean, 1 tbsp salt, and 1 tsp oil    Steam for 60 min    Take it out and let it cool, want it to be dry and well separated    Eat with cha, hanh kho or che hoa cau      </description>
     </item>
     
   </channel>
