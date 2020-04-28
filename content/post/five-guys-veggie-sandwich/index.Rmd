@@ -1,5 +1,5 @@
 ---
-title: "Five Guys Veggie Sandwhich"
+title: "Five Guys Veggie Sandwich"
 tags: ['Entree', 'Vegetarianish']
 ---
 
@@ -8,7 +8,7 @@ library(tidyverse)
 library(RSQLite)
 library(knitr)
 
-recipe_name <- 'Five Guys Veggie Sandwhich'
+recipe_name <- 'Five Guys Veggie Sandwich'
 connect <- RSQLite::dbConnect(drv = RSQLite::SQLite(), dbname = '../../../data/recipes.db')
 ingredients_query <- glue::glue('SELECT * FROM ingredients WHERE recipe = "{recipe_name}"')
 instructions_query <- glue::glue('SELECT * FROM instructions WHERE recipe = "{recipe_name}"')
@@ -36,7 +36,7 @@ display_instructions <- instructions %>%
   dplyr::select(instructions)
 ```
 
-
+![](Five_Guys_Veggie_Sandwich.JPG)
 
 
 

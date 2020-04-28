@@ -306,7 +306,7 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       
       <guid>/canh-muop-mong-toi/</guid>
       <description> Ingredients   Other  Meat  Veggie  Fruit      pepper  dried shrimp  malabar spinach     salt   shallot     wonton soup base   taiwanese okra      
- Instructions   instructions      Soak fried shrimp in hot water and mash fried shrimp    Stir fry taiwanese okra (luffa) &amp;amp; shallots with salt &amp;amp; pepper    Add bowl of fried shrimp &amp;amp; additional water    Add wonton soup base    Add malabar spinach prior to boiling    Adjust to taste as necessary    Canh spoils easily, so refridgerate when cool      </description>
+ Instructions   instructions      Soak dried shrimp in hot water and mash dried shrimp    Stir fry taiwanese okra (luffa) &amp;amp; shallots with salt &amp;amp; pepper    Add bowl of dried shrimp &amp;amp; additional water    Add wonton soup base    Add malabar spinach prior to boiling    Adjust to taste as necessary    Canh spoils easily, so refridgerate when cool      </description>
     </item>
     
     <item>
@@ -418,11 +418,11 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
     </item>
     
     <item>
-      <title>Five Guys Veggie Sandwhich</title>
-      <link>/five-guys-veggie-sandwhich/</link>
+      <title>Five Guys Veggie Sandwich</title>
+      <link>/five-guys-veggie-sandwich/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/five-guys-veggie-sandwhich/</guid>
+      <guid>/five-guys-veggie-sandwich/</guid>
       <description> Ingredients   Other  Meat  Veggie  Fruit      butter   lettuce     cheese (Chao vegan)   mushroom     hamburger buns   onion     mayonnaise   tomato     msg        
  Instructions   instructions      Carmelize onions and mushrooms    Butter and toast the buns    Add mayo on the buns    Form a patty of carmelized onions/mushrooms sprinkle on msg    Add cheese to melt cheese on top    Transfer to bun    Add lettuce &amp;amp; tomato    Assemble veggie sandwich      </description>
     </item>
@@ -627,6 +627,15 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
     </item>
     
     <item>
+      <title>Mi Mien Xao (Stir Fried Noodles)</title>
+      <link>/mi-mien-xao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/mi-mien-xao/</guid>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      mi  any  bean sprouts     mien   broccoli     oyster sauce   cabbage     pepper   carrot     salt   chive       garlic       green onion       hanh kho       mushroom       okra       shallot       snap pea       yellow onion       any</description>
+    </item>
+    
+    <item>
       <title>Mi Vit Quay (Roast Duck Noodle Soup)</title>
       <link>/mi-vit-quay/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -634,6 +643,15 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <guid>/mi-vit-quay/</guid>
       <description> Ingredients   Other  Meat  Veggie  Fruit      chicken broth  roast duck  chives     mi   hanh kho     wonton soup base   lettuce       mustard greens      
  Instructions   instructions      Buy a whole roast duck at a Chinese barbecue restaurant    Cut up the roast duck, save the bony parts for the broth and refrigerate the rest    Fill large pot 1/4 full with water, add bony duck parts, and sauce (comes with duck)    When the broth starts to boil, fill 3/4 pot with chicken broth and add wonton soup base    Want the broth to maintain a light boil    Wash and cut veggies    Boil the lettuce and mustard greens    Stir fry washed/dried mi until it is a little crunchy, sprinkle with some soy sauce and chives    Eat with mi, veggies, roast duck, broth, and hanh kho      </description>
+    </item>
+    
+    <item>
+      <title>Mien Ga (Vietnamese Chicken Glass Noodle Soup)</title>
+      <link>/mien-ga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/mien-ga/</guid>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      fish sauce  chicken bones  cilantro     mien  chicken feet  dried fungus mushroom     msg  chicken gizzard  garlic     pepper  chicken thigh  ginger     salt   green onion     sugar   hanh kho     wonton soup base   shallot       vietnamese mint       yellow onion</description>
     </item>
     
     <item>

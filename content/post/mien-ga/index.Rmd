@@ -1,6 +1,6 @@
 ---
-title: "Bun Thit Nuong (Vietnamese Grilled Pork and Noodles)"
-tags: ['Entree', 'Vietnamese']
+title: "Mien Ga (Vietnamese Chicken Glass Noodle Soup)"
+tags: ['Entree', 'Vietnamese', 'Soup']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}
@@ -8,7 +8,7 @@ library(tidyverse)
 library(RSQLite)
 library(knitr)
 
-recipe_name <- 'Bun Thit Nuong (Vietnamese Grilled Pork and Noodles)'
+recipe_name <- 'Mien Ga (Vietnamese Chicken Glass Noodle Soup)'
 connect <- RSQLite::dbConnect(drv = RSQLite::SQLite(), dbname = '../../../data/recipes.db')
 ingredients_query <- glue::glue('SELECT * FROM ingredients WHERE recipe = "{recipe_name}"')
 instructions_query <- glue::glue('SELECT * FROM instructions WHERE recipe = "{recipe_name}"')
@@ -36,7 +36,7 @@ display_instructions <- instructions %>%
   dplyr::select(instructions)
 ```
 
-![](Bun_Thit_Nuong.JPG)
+![](Mien_Ga.JPG)
 
 
 
