@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+
+{{ range .Data.Terms.Alphabetical }}
+  <p>
+    <a class="btn btn-outline-dark font-125" href="{{ .Page.RelPermalink }}">
+      <span class="badge badge-dark">{{ .Count }}</span> {{ .Page.Title }}
+    </a>
+  </p>
+{{ end }}
+
+<hr>
+<p>
+  <a class="btn btn-outline-dark font-125" href="https://jennynguyen.shinyapps.io/recipe_finder/">
+    <span class="badge badge-dark"><i data-feather="shopping-cart"></i></span> By Ingredient
+  </a>
+</p>
+
+{{ end }}

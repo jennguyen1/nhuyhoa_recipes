@@ -1,6 +1,6 @@
 ---
-title: "Spaghetti"
-tags: ['Entree', 'Vegetarianish']
+title: "Mi Xao (Stir Fried Noodles)"
+tags: ['Entree', 'Vietnamese']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}
@@ -8,7 +8,7 @@ library(tidyverse)
 library(RSQLite)
 library(knitr)
 
-recipe_name <- 'Spaghetti'
+recipe_name <- 'Mi Xao (Stir Fried Noodles)'
 connect <- RSQLite::dbConnect(drv = RSQLite::SQLite(), dbname = '../../../data/recipes.db')
 ingredients_query <- glue::glue('SELECT * FROM ingredients WHERE recipe = "{recipe_name}"')
 instructions_query <- glue::glue('SELECT * FROM instructions WHERE recipe = "{recipe_name}"')
@@ -36,7 +36,7 @@ display_instructions <- instructions %>%
   dplyr::select(instructions)
 ```
 
-![](Spaghetti.JPG)
+![](Mi_Xao.JPG)
 
 
 

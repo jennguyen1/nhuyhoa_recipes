@@ -74,7 +74,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/canh-cai-cuc/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      chicken broth  ground pork  chrysanthemum     wonton soup base   ground chicken       shallot      
+      <description> Ingredients   Other  Meat  Veggie  Fruit      chicken broth  ground chicken  chrysanthemum     wonton soup base  ground pork  shallot      
  Instructions   instructions      Golden minced shallots    Stir fry ground pork until no longer pink    Add an equal amount of water and chicken broth    Season with wonton soup base    Adjust broth to taste, want it light    Cut chrysanthemums (cai cuc, tung ho) into 3 in lengths, use the stems if they are tender enough    Add steams first then leaves    Bring to a small simmer and then remove from heat      </description>
     </item>
     
@@ -104,8 +104,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/chao/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      gio chao quay  chicken  green onions     jasmine rice  ground pork  shallot     pepper       salt       wonton soup base        
- Instructions   instructions      Make rice    Marinate chicken or pork with salt, pepper &amp;amp; shallots    If using pork, stir fry it    Boil water and add chicken/pork    If using chicken, remove after boiling and shred into strips when cooled    Add rice and boil until it has expanded (~1 hr)    Add wonton soup base    Spoon into bowl and adjust with pepper, gio chao quay, minced green onions      </description>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      gio chao quay  chicken  green onions     jasmine rice   shallot     pepper       salt       wonton soup base        
+ Instructions   instructions      Marinate chicken with salt, pepper &amp;amp; shallots    Make rice    Boil chicken until sufficient internal temp    Add rice and boil until it has expanded (~1 hr)    Add wonton soup base    Eat with pepper, green onions, shredded chicken, gio chao quay      </description>
     </item>
     
     <item>
@@ -250,7 +250,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/goi-salsa/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      banana chips   cabbage  avocado    pepper   cilantro  lime    pita chips   corn  mandarin orange    salt   cucumber  mango    sugar   edamame       mint       red onion       tomato</description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      banana chips   cabbage  avocado    pepper   cilantro  lime    pita chips   corn  mandarin orange    salt   cucumber  mango    sugar   edamame  any      lettuce       mint       red onion       tomato       any</description>
     </item>
     
     <item>
@@ -338,16 +338,6 @@
       
       <guid>/smoothie/</guid>
       <description>Ingredients   Other  Meat  Veggie  Fruit      apple juice   spinach  banana    orange juice    blueberries    soy milk    dates    vanilla honey yogurt    mandarin orange       mango       peach       pineapple       strawberry</description>
-    </item>
-    
-    <item>
-      <title>Spaghetti</title>
-      <link>/spaghetti/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/spaghetti/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      Rinaldi sauce  ground beef  mushroom     spaghetti   onion       shallot       spinach      
- Instructions   instructions      Prepare the noodles    Cook shallots in pot with oil    Cook ground beef and drain meat fat    Add Rinaldi pasta sauce    Simmer    Add nuoc mam for taste    Add mushrooms and onions    Simmer      </description>
     </item>
     
     <item>
