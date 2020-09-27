@@ -87,11 +87,11 @@
   </url>
   
   <url>
-    <loc>/ca-mackerel/</loc>
+    <loc>/ca-nuc/</loc>
   </url>
   
   <url>
-    <loc>/ca-mackerel-in-miso-sauce/</loc>
+    <loc>/ca-nuc-mackerel-in-miso-sauce/</loc>
   </url>
   
   <url>
@@ -231,6 +231,10 @@
   </url>
   
   <url>
+    <loc>/goi-cuon-cham-mam-nem/</loc>
+  </url>
+  
+  <url>
     <loc>/goi-ga/</loc>
   </url>
   
@@ -316,6 +320,10 @@
   
   <url>
     <loc>/post/</loc>
+  </url>
+  
+  <url>
+    <loc>/roast-yam/</loc>
   </url>
   
   <url>
