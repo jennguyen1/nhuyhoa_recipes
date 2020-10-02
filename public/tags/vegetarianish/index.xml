@@ -231,8 +231,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/goi-ga/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      nuoc mam pha  chicken  cabbage     pepper  any  hanh kho     salt   onion     sugar   thai basil     vinegar   vietnamese mint      
- Instructions   instructions      Chop veggies into thin strips    Add boiled chicken torn into strips    Add chopped Vietnamese mint/coriander (rau ram) and thai basil    Season with salt, pepper and a vinegar/sugar sauce, want sweet and sour    Eat goi with hanh kho and nuoc mam pha      </description>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      nuoc mam pha  chicken  cabbage     pepper  any  hanh kho     salt   onion     sugar   thai basil     vinegar   vietnamese coriander      
+ Instructions   instructions      Chop veggies into thin strips    Add boiled chicken torn into strips    Add chopped Vietnamese coriander (rau ram) and thai basil    Season with salt, pepper and a vinegar/sugar sauce, want sweet and sour    Eat goi with hanh kho and nuoc mam pha      </description>
     </item>
     
     <item>
@@ -303,6 +303,15 @@
     </item>
     
     <item>
+      <title>Pesto</title>
+      <link>/pesto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pesto/</guid>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      cashews   basil  date    nutritional yeast   cilantro  lime    olive oil   dill     pepper   garlic     salt   mint     soy milk   vietnamese coriander</description>
+    </item>
+    
+    <item>
       <title>Rau Muong Xao Toi (Stir Fried Water Spinach)</title>
       <link>/rau-muong-xao-toi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -338,7 +347,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/smoothie/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      apple juice   spinach  banana    orange juice    blueberries    soy milk    dates    vanilla honey yogurt    mandarin orange       mango       peach       pineapple       strawberry</description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      apple juice   spinach  banana    orange juice    blueberries    soy milk    date    vanilla honey yogurt    dates       mandarin orange       mango       peach       pineapple       strawberry</description>
     </item>
     
     <item>

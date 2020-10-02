@@ -25,7 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/banh-canh/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      banh canh  chicken bones  bean sprouts     fish sauce  chicken feet  chives     msg  chicken wings  cilantro     pepper  dried shrimp  daikon     salt  dried squid  garlic     sugar  pork belly  ginger     wonton soup base  pork bones  green onions      pork feet  hanh kho      pork hock  onion      shrimp  shallot       vietnamese mint</description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      banh canh  chicken bones  bean sprouts     fish sauce  chicken feet  chives     msg  chicken wings  cilantro     pepper  dried shrimp  daikon     salt  dried squid  garlic     sugar  pork belly  ginger     wonton soup base  pork bones  green onions      pork feet  hanh kho      pork hock  onion      shrimp  shallot       vietnamese coriander</description>
     </item>
     
     <item>
@@ -93,16 +93,6 @@
       <guid>/bo-bia/</guid>
       <description> Ingredients   Other  Meat  Veggie  Fruit      bun  eggs  cucumber     hoisin sauce  lap xuong (chinese pork sausages)  lettuce     peanut butter   mint     rice paper   thai basil      
  Instructions   instructions      Boil lap xuong for 15 min, move to ice bath when done    Make thin egg omeletes, one egg at a time    Slice sausages and eggs    Prepare the bun    Prepare the veggies    To make sauce, dilute hoisin sauce &amp;amp; peanut butter with broth until the taste is right    Make rolls      </description>
-    </item>
-    
-    <item>
-      <title>Bo Xao Dau Xanh (Beef and Green Bean Stir Fry)</title>
-      <link>/bo-xao-dau-xanh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/bo-xao-dau-xanh/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      oyster sauce  beef  garlic     pepper   green beans     salt   mushroom       shallot      
- Instructions   instructions      Marinate sliced beef with shallots, garlic, salt, pepper, and a pinch of oil    Stir fry beef until cooked but moist (remove excess liquid)    Stir in and cook mushrooms and green beans until soft    Drizzle in diluted oyster sauce (1:1 ratio)      </description>
     </item>
     
     <item>
@@ -322,6 +312,16 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
     </item>
     
     <item>
+      <title>Dau Xanh Xao (Green Bean Stir Fry)</title>
+      <link>/dau-xanh-xao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/dau-xanh-xao/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      oyster sauce   garlic     pepper   green beans     salt   mushroom       shallot      
+ Instructions   instructions      Golden shallots and garlic    Stir in and cook mushrooms and green beans until soft    Drizzle in diluted oyster sauce (1:1 ratio)      </description>
+    </item>
+    
+    <item>
       <title>Dau Xao Hanh (Stir Fried Tofu and Green Onions)</title>
       <link>/dau-xao-hanh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -434,8 +434,8 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/goi-ga/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      nuoc mam pha  chicken  cabbage     pepper  any  hanh kho     salt   onion     sugar   thai basil     vinegar   vietnamese mint      
- Instructions   instructions      Chop veggies into thin strips    Add boiled chicken torn into strips    Add chopped Vietnamese mint/coriander (rau ram) and thai basil    Season with salt, pepper and a vinegar/sugar sauce, want sweet and sour    Eat goi with hanh kho and nuoc mam pha      </description>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      nuoc mam pha  chicken  cabbage     pepper  any  hanh kho     salt   onion     sugar   thai basil     vinegar   vietnamese coriander      
+ Instructions   instructions      Chop veggies into thin strips    Add boiled chicken torn into strips    Add chopped Vietnamese coriander (rau ram) and thai basil    Season with salt, pepper and a vinegar/sugar sauce, want sweet and sour    Eat goi with hanh kho and nuoc mam pha      </description>
     </item>
     
     <item>
@@ -502,7 +502,7 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/mien-ga/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      fish sauce  chicken bones  cilantro     mien  chicken feet  dried fungus mushroom     msg  chicken gizzard  garlic     pepper  chicken thigh  ginger     salt   green onion     sugar   hanh kho     wonton soup base   shallot       vietnamese mint       yellow onion</description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      fish sauce  chicken bones  cilantro     mien  chicken feet  dried fungus mushroom     msg  chicken gizzard  garlic     pepper  chicken thigh  ginger     salt   green onion     sugar   hanh kho     wonton soup base   shallot       vietnamese coriander       yellow onion</description>
     </item>
     
     <item>

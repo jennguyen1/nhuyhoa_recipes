@@ -47,10 +47,6 @@
   </url>
   
   <url>
-    <loc>/bo-xao-dau-xanh/</loc>
-  </url>
-  
-  <url>
     <loc>/bo-xao-khoai-tay-chien/</loc>
   </url>
   
@@ -152,6 +148,10 @@
   
   <url>
     <loc>/dau-sot-ca-chua/</loc>
+  </url>
+  
+  <url>
+    <loc>/dau-xanh-xao/</loc>
   </url>
   
   <url>
@@ -308,6 +308,10 @@
   
   <url>
     <loc>/pad-thai/</loc>
+  </url>
+  
+  <url>
+    <loc>/pesto/</loc>
   </url>
   
   <url>
