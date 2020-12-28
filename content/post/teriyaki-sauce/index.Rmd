@@ -1,6 +1,6 @@
 ---
 title: "Teriyaki Sauce"
-tags: ['Other', 'Vegetarianish']
+tags: ['Other']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}

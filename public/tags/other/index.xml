@@ -20,6 +20,16 @@
     </item>
     
     <item>
+      <title>Date Paste</title>
+      <link>/date-paste/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/date-paste/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit         date     
+ Instructions   instructions      Soak dates until soft    Drain dates    Blend dates, slowly adding a liquid (water, soy milk, etc) until smooth    May be used as a substitute for sugar or in smoothies, soup, salad, etc      </description>
+    </item>
+    
+    <item>
       <title>Ground Meat</title>
       <link>/ground-meat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -57,6 +67,16 @@
       <guid>/teriyaki-sauce/</guid>
       <description> Ingredients   Other  Meat  Veggie  Fruit      mirin   garlic     sake   ginger     soy sauce   onion     sugar   shallot      
  Instructions   instructions      Mix teriyaki sauce: ratio 2 soy sauce : 2 sake : 2 mirin : 1 sugar    Bring mixture to a boil and continuously stir on medium low    Simmer for 10-15 min or until sauce is thickened    When small bubbles start to rise/appear when mixing, pour sauce in glass jar, cool, and refridgerate for 2-3 weeks      </description>
+    </item>
+    
+    <item>
+      <title>TVP</title>
+      <link>/tvp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tvp/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      butter       garlic powder       msg       mushroom seasoning       onion powder       TVP        
+ Instructions   instructions      Boil water with seasonings    Pour liquid into TVP at a 1:1 ratio    Let soak for few minutes      </description>
     </item>
     
   </channel>

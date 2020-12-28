@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>Alfredo Dairy-Free</title>
+      <link>/alfredo-dairy-free/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/alfredo-dairy-free/</guid>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      cashews   japanese sweet potato  date    cornstarch       garlic powder       mushroom powder       nutritional yeast       pepper       salt       soy milk</description>
+    </item>
+    
+    <item>
       <title>Banh Canh (Vietnamese Thick Noodle Soup)</title>
       <link>/banh-canh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -92,7 +101,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/bun-cha-gio/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      bun  ground chicken  carrot     mien  ground pork  cucumber     nuoc mam pha  shrimp  dried fungus mushroom       lettuce       mint       perilla       shallot</description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      bun  ground chicken  carrot     mien  ground pork  cucumber     nuoc mam pha  shrimp  dried fungus mushroom      tvp  lettuce       mint       perilla       shallot</description>
     </item>
     
     <item>
@@ -165,6 +174,16 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
     </item>
     
     <item>
+      <title>Canh Bau (Opo Squash Soup)</title>
+      <link>/canh-bau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/canh-bau/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      chicken broth  pork rib tips  green onions     fish sauce  shrimp  opo squash     mushroom seasoning   shallot     pepper       salt        
+ Instructions   instructions          </description>
+    </item>
+    
+    <item>
       <title>Canh Ca Chua Dau Hu (Tofu and Tomato Soup)</title>
       <link>/canh-ca-chua-dau-hu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -229,8 +248,8 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/canh-khoai-tay-suon/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      chicken broth  pork rib tips  rice paddy herbs     pepper   shallot     salt   taro     wonton soup base   yam      
- Instructions   instructions      Marinate the pork in salt, pepper, shallots    Blanche meat, then dump liquid and thoroughly rinse to remove impurities    Boil pork rib tips with extra marinade on medium heat    When foam starts to form, lower heat and remove foam    When foam all clear, turn to medium high heat and cover loosely with lid    Add chicken broth and wonton soup base    Boil taro or yam in a separate pot    Add taro or yam to soup    Add rice paddy herbs (ngo om) in the last few minutes      </description>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      chicken broth  pork rib tips  japanese sweet potato     pepper   rice paddy herbs     salt   shallot     wonton soup base   taro      
+ Instructions   instructions      Marinate the pork in salt, pepper, shallots    Blanche meat, then dump liquid and thoroughly rinse to remove impurities    Boil pork rib tips with extra marinade on medium heat    When foam starts to form, lower heat and remove foam    When foam all clear, turn to medium high heat and cover loosely with lid    Add chicken broth and wonton soup base    Boil taro/sweet potato in a separate pot    Add taro or sweet potato to soup    Add rice paddy herbs (ngo om) in the last few minutes      </description>
     </item>
     
     <item>
@@ -338,7 +357,7 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/dumplings/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      pepper  ground pork  green onions     salt  shrimp  shallot     soy sauce   water chestnuts     sugar       vinegar       wonton wrappers</description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      pepper  ground chicken  green onions     salt  ground pork  shallot     soy sauce  shrimp  water chestnuts     sugar       vinegar       wonton wrappers</description>
     </item>
     
     <item>
@@ -347,7 +366,7 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/eggs-omelette/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      mien  eggs  dried fungus mushroom     nuoc mam pha  ground pork  onion     pepper   shallot     salt       soy sauce        
+      <description> Ingredients   Other  Meat  Veggie  Fruit      mien  eggs  dried fungus mushroom     nuoc mam pha  ground pork  onion     pepper  tvp  shallot     salt       soy sauce        
  Instructions   instructions      Soak mien and a few fungus separately in boiling water for a couple minutes, drain, rinse and repeat    Combine eggs and mixed fillings    Stir fry shallots until golden    Add egg mixture    Cook both sides until golden    Serve with nuoc mam pha      </description>
     </item>
     
@@ -376,7 +395,7 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/ga-ca-ri/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      baguette  chicken  carrot     chicken broth   potato     chicken powder   shallot     curry powder   sweet potato     pepper   yam     salt       wonton soup base</description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      baguette  chicken  carrot     chicken broth   japanese sweet potato     chicken powder   lemongrass     curry powder   potato     pepper   shallot     salt   sweet potato     wonton soup base</description>
     </item>
     
     <item>
@@ -529,7 +548,7 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/mi-xao/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      mi  any  bean sprouts     oyster sauce   broccoli     pepper   cabbage     salt   carrot       chive       garlic       green onion       hanh kho       mushroom       okra       shallot       snap pea       yellow onion       any</description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      mi  any  bean sprouts     oyster sauce   broccoli     pepper   cabbage     salt   carrot       chive       garlic       green onions       hanh kho       mushroom       okra       shallot       snap pea       yellow onion       any</description>
     </item>
     
     <item>
@@ -538,7 +557,7 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/mien-ga/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      fish sauce  chicken bones  cilantro     mien  chicken feet  dried fungus mushroom     msg  chicken gizzard  garlic     pepper  chicken thigh  ginger     salt   green onion     sugar   hanh kho     wonton soup base   shallot       vietnamese coriander       yellow onion</description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      fish sauce  chicken bones  cilantro     mien  chicken feet  dried fungus mushroom     msg  chicken gizzard  garlic     pepper  chicken thigh  ginger     salt   green onions     sugar   hanh kho     wonton soup base   shallot       vietnamese coriander       yellow onion</description>
     </item>
     
     <item>
@@ -582,12 +601,22 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
     </item>
     
     <item>
+      <title>Panko Fried Shrimp</title>
+      <link>/panko-fried-shrimp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/panko-fried-shrimp/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      flour  egg      panko bread crumbs  shrimp      pepper       salt        
+ Instructions   instructions      Remove shell except tail from shrimp    Season shrimp with salt &amp;amp; pepper    Batter mixes: (1) whipped egg with water, (2) flour, (3) panko bread crumbs    Dip shrimp in egg mixture, flour, egg mixture, panko mix    Pan fry with moderate layer of oil until golden on both sides      </description>
+    </item>
+    
+    <item>
       <title>Pesto</title>
       <link>/pesto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/pesto/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      cashews   basil  date    nutritional yeast   cilantro  lime    olive oil   dill     pepper   garlic     salt   mint     soy milk   vietnamese coriander</description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      cashews   basil  date    nutritional yeast   cilantro  lime    olive oil   dill  any    pepper   garlic     salt   mint     soy milk   vietnamese coriander       any</description>
     </item>
     
     <item>
@@ -611,13 +640,13 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
     </item>
     
     <item>
-      <title>Roast Yam</title>
-      <link>/roast-yam/</link>
+      <title>Roast Sweet Potato</title>
+      <link>/roast-sweet-potato/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/roast-yam/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit        yam      
- Instructions   instructions      Preheat oven to 450F    Poke the yam (japanese sweet potato) with a fork    Bake for 30-45 min      </description>
+      <guid>/roast-sweet-potato/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit        japanese sweet potato      
+ Instructions   instructions      Preheat oven to 450F    Poke the japanese sweet potato with a fork    Bake for 30-45 min      </description>
     </item>
     
     <item>
@@ -724,7 +753,7 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       
       <guid>/xoi-vo/</guid>
       <description> Ingredients   Other  Meat  Veggie  Fruit      peeled mung bean  cha  hanh kho     salt       sweet rice        
- Instructions   instructions      Want a ratio of 2 sweet rice : 1 peeled mung bean    Rinse and soak each separately in cold water overnight    Rinse and and drain separately    Let the rice sit and dry while you work on the mung beans    Steam mung bean for 15-20 min, it should hold its shape but can be smashed between fingers    Granulate mung been until powdery    Mix rice with mung bean, 1 tbsp salt, and 1 tsp oil    Steam for 60 min    Take it out and let it cool, want it to be dry and well separated    Eat with cha, hanh kho or che hoa cau      </description>
+ Instructions   instructions      Want a ratio of 3 sweet rice : 1 peeled mung bean    Rinse and soak each separately in cold water overnight    Rinse and and drain separately    Let the rice sit and dry while you work on the mung beans    Steam mung bean for 15-20 min, it should hold its shape but can be smashed between fingers    Granulate mung been until powdery    Mix rice with mung bean, 1 tbsp salt, and 1 tsp oil    Steam for 60 min    Take it out and let it cool, want it to be dry and well separated    Eat with cha, hanh kho or che hoa cau      </description>
     </item>
     
   </channel>

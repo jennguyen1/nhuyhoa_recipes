@@ -44,7 +44,7 @@
       
       <guid>/banh-day/</guid>
       <description> Ingredients   Other  Meat  Veggie  Fruit      bot nep  cha      oil        
- Instructions   instructions      Combine bot nep (glutinous rice flour) slowly with about 400 ml of water and about 1/3 cup of oil    Mix dough; should be hard, not too soft    Knead with hands    Form little balls, a bit smaller than a stress ball    Place on aluminum foil squares    Steam for 20 min    Sandwich cha between two rice cakes      </description>
+ Instructions   instructions      Combine 4 oz bot nep (glutinous rice flour) slowly with 100 ml of water and 1 tbsp of oil    Mix dough; should be hard, not too soft    Knead with hands    Form little balls, a bit smaller than a stress ball    Place on aluminum foil squares    Steam for 20 min    Sandwich cha between two rice cakes      </description>
     </item>
     
     <item>
@@ -68,12 +68,22 @@
     </item>
     
     <item>
+      <title>Fried Plantains</title>
+      <link>/fried-plantains/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fried-plantains/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      butter    plantains     
+ Instructions   instructions      Cut overripe plantains into slices    Fry plantains in melted butter      </description>
+    </item>
+    
+    <item>
       <title>Fruit</title>
       <link>/fruit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/fruit/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit         asian pear       cantaloupe       durian       jackfruit       longan       mango       persimmon       pineapple       plum       watermelon</description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit         asian pear       cantaloupe       corn       durian       grape       jackfruit       longan       mango       persimmon       pineapple       plum       rambutan       watermelon</description>
     </item>
     
     <item>
@@ -105,6 +115,15 @@
     </item>
     
     <item>
+      <title>Pancakes</title>
+      <link>/pancakes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pancakes/</guid>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      apple cider vinegar  eggs      baking powder       baking soda       flour       maple syrup       salt       soy milk       sugar       vanilla</description>
+    </item>
+    
+    <item>
       <title>Royal Tea</title>
       <link>/royal-tea/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -120,7 +139,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/smoothie/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      apple juice   spinach  banana    orange juice    blueberries    soy milk    date    vanilla honey yogurt    dates       mandarin orange       mango       peach       pineapple       strawberry</description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      apple juice   spinach  banana    orange juice    blueberries    soy milk    date    vanilla honey yogurt    date       mandarin orange       mango       peach       pineapple       strawberry</description>
     </item>
     
     <item>
@@ -130,7 +149,7 @@
       
       <guid>/xoi-che-hoa-cau/</guid>
       <description>Ingredients   Other  Meat  Veggie  Fruit      flavoring extract       peeled mung bean       salt       sugar       tapioca starch       xoi vo        
- Instructions   instructions      Rinse, soak, steam a few spoons of mung bean (as with xoi vo)    Dissolve 0.</description>
+ Instructions   instructions      Rinse, soak, steam a few spoons of mung bean (as with xoi vo)    Dissolve 3.</description>
     </item>
     
   </channel>

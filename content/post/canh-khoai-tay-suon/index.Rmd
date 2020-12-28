@@ -1,6 +1,6 @@
 ---
 title: "Canh Khoai Tay Suon (Taro and Pork Rib Soup)"
-tags: ['Entree', 'Vietnamese', 'Soup']
+tags: ['Entree', 'Vietnamese', 'Soup', 'Vegetarianish']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}
