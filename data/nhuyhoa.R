@@ -13,8 +13,9 @@ make_script <- function(df){
   file_name <- glue::glue("content/post/{name_edit}/index.Rmd")
 
   # recipe pictures - format for markdown/html
-  pictures <<- df$pictures[[1]]
-  file.copy(paste0("data/food/", pictures), file_dir)
+  # pictures <<- df$pictures[[1]]
+  pictures <- list.files(glue::glue("content/post/{name_edit}/"), pattern = "JPG")
+  # file.copy(paste0("data/food/", pictures), file_dir) todo
   use_image <- pictures %>%
     paste0("![](", ., ')') %>%
     paste(collapse = "\n\n")
@@ -102,15 +103,15 @@ run_recipes <- function(){
     dplyr::arrange(recipe)
   RSQLite::dbDisconnect(conn = connect)
 
-  # extract recipe pics
+  # extract recipe pics todo
   recipe_info <- recipes
-  recipe_info$pictures <- apply(recipes, 1, function(r){
-    pat <- r['recipe'] %>%
-      stringr::str_replace(" \\(.*", "") %>%
-      stringr::str_replace_all(" ", "_")
-    pics <- list.files("data/food/", pattern = pat)
-    stringr::str_subset(pics, glue::glue("^{pat}\\d*.JPG"))
-  })
+  # recipe_info$pictures <- apply(recipes, 1, function(r){
+  #   pat <- r['recipe'] %>%
+  #     stringr::str_replace(" \\(.*", "") %>%
+  #     stringr::str_replace_all(" ", "_")
+  #   pics <- list.files("data/food/", pattern = pat)
+  #   stringr::str_subset(pics, glue::glue("^{pat}\\d*.JPG"))
+  # })
 
   purrr::walk(1:nrow(recipe_info), ~ recipe_info %>% dplyr::slice(.x) %>% make_script())
 }
