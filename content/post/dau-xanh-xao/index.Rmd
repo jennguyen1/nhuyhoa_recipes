@@ -1,6 +1,6 @@
 ---
 title: "Dau Xanh Xao (Green Bean Stir Fry)"
-tags: ['Entree', 'Vietnamese']
+tags: ['Entree', 'Vietnamese', 'Vegetarianish']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}

@@ -90,6 +90,7 @@ display_instructions %>% knitr::kable(format = \"html\", table.attr = \"class = 
   return(script)
 }
 
+# run this 
 run_recipes <- function(){
   "Regenerate recipes files"
 
