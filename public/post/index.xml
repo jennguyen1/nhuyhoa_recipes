@@ -384,16 +384,6 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
     </item>
     
     <item>
-      <title>Dau Xanh Xao (Green Bean Stir Fry)</title>
-      <link>/dau-xanh-xao/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/dau-xanh-xao/</guid>
-      <description>  Ingredients   Other  Meat  Veggie  Fruit      oyster sauce   garlic     pepper   green beans     salt   mushroom       shallot      
- Instructions   instructions      Saute minced shallots and garlic until slightly golden    Stir in and cook mushrooms and green beans until soft    Drizzle in diluted oyster sauce (1:1 ratio)      </description>
-    </item>
-    
-    <item>
       <title>Dau Xao Hanh (Stir Fried Tofu and Green Onions)</title>
       <link>/dau-xao-hanh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -401,6 +391,16 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <guid>/dau-xao-hanh/</guid>
       <description>  Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  tofu  green onions       shallot      
  Instructions   instructions      Cut shallots and green onions    Make a 1:1 mixture of water and nuoc mam in a small bowl    Fry tofu    Saute minced shallots until slightly golden    Add green onions and stir until they soften    Add tofu and sauce mixture    Stir and adjust to taste, remove from heat after a few minutes      </description>
+    </item>
+    
+    <item>
+      <title>Dim Sum Veggies</title>
+      <link>/dim-sum-veggies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/dim-sum-veggies/</guid>
+      <description>  Ingredients   Other  Meat  Veggie  Fruit      oyster sauce   bok choy     soy sauce   chinese broccoli     sugar   garlic     wonton soup base        
+ Instructions   instructions      Blanche bok choy    Mix 3 oyster sauce : 1 soy sauce : 2 sugar, and some wonton soup base or water    Saute minced garlic until slightly golden    Stir fry bok choy for a couple minutes    Add water and steam for a couple minutes    Arrange on plate and drizzle with sauce      </description>
     </item>
     
     <item>
@@ -450,15 +450,6 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <guid>/fried-plantains/</guid>
       <description>  Ingredients   Other  Meat  Veggie  Fruit      butter    plantain     
  Instructions   instructions      Cut overripe plantains into slices    Fry plantains in melted butter      </description>
-    </item>
-    
-    <item>
-      <title>Fruit</title>
-      <link>/fruit/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fruit/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit         asian pear       cantaloupe       corn       durian       grape       jackfruit       longan       mango       persimmon       pineapple       plum       rambutan       watermelon</description>
     </item>
     
     <item>
@@ -718,16 +709,6 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <guid>/nuoc-mam-pha/</guid>
       <description>  Ingredients   Other  Meat  Veggie  Fruit      nuoc mam   garlic     sugar       vinegar        
  Instructions   instructions      Add sugar to a large bowl and level out    Pour vinegar into the bowl, slightly over the surface of the sugar    Add nuoc mam, about 1/3 of current level    Mix in water to dilute    Adjust to taste, should be sweet and sour, not salty    Mix in minced garlic      </description>
-    </item>
-    
-    <item>
-      <title>Pad Thai</title>
-      <link>/pad-thai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/pad-thai/</guid>
-      <description>  Ingredients   Other  Meat  Veggie  Fruit      brown sugar  eggs  bean sprouts     bun  any  chives     nuoc mam   garlic     peanuts   shallot     tamarind   any      
- Instructions   instructions      Soak the bun in room temperature water for 1 hour until it is pliable yet firm    Make sauce: ratio of 4 tamarind concentrate : 3 brown sugar : 2 nuoc mam : 3 water    Heat sauce in microwave so everything is dissolved    Cook the meats, remove and set aside    Saute minced shallots and garlic until slightly golden    Mix bun in sauce in a dry bowl and then add to pan    Add additional water and oil as needed to cook bun    Make some room in the pan, add eggs    Scramble the eggs and mix in with the bun    Stir in meats and veggies      </description>
     </item>
     
     <item>
