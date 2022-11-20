@@ -1,3 +1,5 @@
+library(tidyverse)
+
 # generate recipe RMD files for website
 make_script <- function(df){
 
