@@ -38,6 +38,10 @@ display_instructions <- instructions %>%
 
 ![](Shrimp_Po_Boy.JPG)
 
+![](Shrimp_Po_Boy2.JPG)
+
+![](Shrimp_Po_Boy3.JPG)
+
 
 
 
