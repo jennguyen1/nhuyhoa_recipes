@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/banh-canh/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      banh canh  chicken bones  bean sprouts     fish sauce  chicken feet  chives     msg  chicken wings  cilantro     pepper  dried shrimp  daikon     salt  dried squid  garlic     shallot oil  pork belly  ginger     sugar  pork bones  green onions     wonton soup base  pork feet  hanh kho      pork hock  onion      shrimp  shallot       vietnamese coriander</description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      banh canh  chicken bones  bean sprouts     fish sauce  chicken feet  chives     msg  chicken wings  cilantro     pepper  dried shrimp  daikon     salt  dried squid  garlic     shallot oil  pork belly  ginger     sugar  pork bones  green onions     wonton soup base  pork feet  hanh kho      pork hock  onion      pork rib tips  shallot      shrimp  vietnamese coriander</description>
     </item>
     
     <item>
@@ -30,7 +30,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/bun-mang-vit/</guid>
-      <description>  Ingredients   Other  Meat  Veggie  Fruit      bun  duck  bamboo shoots     chicken broth   cilantro     pepper   ginger     salt   green onions     wonton soup base   shallot      
+      <description> Ingredients   Other  Meat  Veggie  Fruit      bun  duck  bamboo shoots     chicken broth   cilantro     pepper   ginger     salt   green onions     wonton soup base   shallot      
  Instructions   instructions      Defrost and clean duck with salt and water    Cut off the duck head, cut open stomach and take out internal organs    Slice duck by thighs to make it easier to cook    Marinate duck with salt, pepper, and minced shallots    Add duck and parts to boiling water, use just enough water to just cover the duck    Peel and smash ginger, add to pot    Boil duck on medium or low heat with the cover on, want a light boil for a total of 1 hour    Periodically skim off foam and remove clumps    Can check on status by stabbing chicken in breast/thigh with chopstick and ensuring there are no red streaks    Take out duck and cut up the meaty parts, put bony parts back into broth    Maintain a slow boil of broth, add chicken broth to desired level and add wonton soup base    Adjust broth to taste, should taste salty    Slice bamboo shoots into strips and clean    Blanche bamboo strips    Add bamboo into broth    Cut up duck and refrigerate    Serve bun with duck, green onions, cilantro, broth, and nuoc mam pha with ginger      </description>
     </item>
     
@@ -40,7 +40,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/bun-rieu/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      bun  eggs  bean sprouts     chicken broth  ground chicken  cilantro     crab paste  ground pork  green onions     mam tom  shrimp  lettuce     salt  tofu  mint     wonton soup base  tofu puffs  shallot       tomato       water spinach       yellow onion</description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      bun  eggs  bean sprouts     chicken broth  ground chicken  cilantro     crab paste  ground pork  green onions     mam tom  shrimp  lettuce     salt  tofu  mint     wonton soup base  tofu puffs  onion       shallot       tofu puffs       tomato       water spinach</description>
     </item>
     
     <item>
@@ -49,8 +49,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/canh-bau/</guid>
-      <description>  Ingredients   Other  Meat  Veggie  Fruit      chicken broth  pork rib tips  cilantro     fish sauce  shrimp  green onions     mushroom seasoning   opo squash     pepper   shallot     salt        
- Instructions   instructions      Season meat with salt, pepper, and shallots    Season cubed squash with salt and pepper    Saute minced shallots until slightly golden    Stir in meat and squash    Add water/broth, adjust to taste with various seasonings    Simmer for 5-10 min    In last few minutes, add green onions and cilantro      </description>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      chicken broth  pork rib tips  cilantro     fish sauce  shrimp  green onions     mushroom seasoning   opo squash     pepper   shallot     salt        
+ Instructions   instructions      Season meat with salt, pepper, and shallots    Season squash (cut into strips or cubes) with salt and pepper    Saute minced shallots until slightly golden    Stir in meat and squash    Add water/broth, adjust to taste with various seasonings    Simmer for 5-10 min    In last few minutes, add green onions and cilantro      </description>
     </item>
     
     <item>
@@ -59,7 +59,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/canh-ca-chua-dau-hu/</guid>
-      <description>  Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  fish tofu  cilantro     wonton soup base  pork rib tips  green onions      tofu  onion      tofu puffs  shallot       tomato      
+      <description> Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  fish tofu  cilantro     wonton soup base  pork rib tips  green onions      tofu  onion      tofu puffs  shallot       tomato      
  Instructions   instructions      Heat yellow onion, shallots, and tomatoes in pot on medium heat    When tomatoes have softened, add 1 bowl of water    Add tofu (fried if desired), soy puffs, pork chops, or fish tofu    Add wonton soup base and nuoc mam, adjust to taste    Simmer for 15 minutes    Add cilantro, green onions, etc in last few minutes      </description>
     </item>
     
@@ -69,7 +69,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/canh-cai-cuc/</guid>
-      <description>  Ingredients   Other  Meat  Veggie  Fruit      chicken broth  ground chicken  chrysanthemum     wonton soup base  ground pork  shallot      
+      <description> Ingredients   Other  Meat  Veggie  Fruit      chicken broth  ground chicken  chrysanthemum     wonton soup base  ground pork  shallot      
  Instructions   instructions      Saute minced shallots until slightly golden    Stir fry ground pork until no longer pink    Add an equal amount of water and chicken broth    Season with wonton soup base    Adjust broth to taste, want it light    Cut chrysanthemums (cai cuc, tung ho) into 3 in lengths, use the stems if they are tender enough    Add steams first then leaves    Bring to a small simmer and then remove from heat      </description>
     </item>
     
@@ -79,7 +79,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/canh-cha-ca/</guid>
-      <description>  Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  cha ca (fish paste)  dill     wonton soup base   green onions       onion       shallot       tomato      
+      <description> Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  cha ca (fish paste)  dill     wonton soup base   green onions       onion       shallot       tomato      
  Instructions   instructions      Heat yellow onion, shallots, and tomatoes in pot on medium heat    When tomatoes have softened, add 1 bowl of water    Add cha ca    Add wonton soup base and nuoc mam, adjust to taste    Simmer for 15 minutes    Add dill and green onions in the last few minutes      </description>
     </item>
     
@@ -98,7 +98,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/canh-dua-chua/</guid>
-      <description>  Ingredients   Other  Meat  Veggie  Fruit      chicken broth  beef rough flank  dua chua     nuoc mam pha  pork belly  shallot     wonton soup base   tomato      
+      <description> Ingredients   Other  Meat  Veggie  Fruit      chicken broth  beef rough flank  dua chua     nuoc mam pha  pork belly  shallot     wonton soup base   tomato      
  Instructions   instructions      Stir minced shallots until golden in a pot on medium heat    Put in thinly sliced meat (leave beef flanks in large strips) and stir for about 5 min, want it mostly cooked    Add in a little bit of water and simmer for 5-10 min on low    Mix in sliced tomatoes and dua cha    Stir well for a few minutes    Put in 2:1 ratio of chicken broth and water, may also add dua chua liquid of desired    Add wonton soup base    When soup starts to boil, turn to low, cover with lid and let it sit for 20 min    Add nuoc mam pha    Adjust to taste, want it sweet and sour      </description>
     </item>
     
@@ -108,7 +108,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/canh-khoai-mo/</guid>
-      <description>  Ingredients   Other  Meat  Veggie  Fruit      chicken broth  shrimp  rice paddy herbs     pepper   shallot     salt   ube     wonton soup base        
+      <description> Ingredients   Other  Meat  Veggie  Fruit      chicken broth  shrimp  rice paddy herbs     pepper   shallot     salt   ube     wonton soup base        
  Instructions   instructions      Process peeled shrimp, salt, pepper, and shallots    Saute minced shallots until slightly golden    Add shrimp mixture    Add chicken broth and wonton soup base    Bring to a boil, then lower heat    Add mashed ube (khoai mo bao) and simmer    Add rice paddy herbs (ngo om) in the last few minutes      </description>
     </item>
     
@@ -118,8 +118,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/canh-khoai-tay-suon/</guid>
-      <description>  Ingredients   Other  Meat  Veggie  Fruit      chicken broth  pork rib tips  japanese sweet potato     pepper   rice paddy herbs     salt   shallot     wonton soup base   taro      
- Instructions   instructions      Marinate the pork in salt, pepper, shallots    Blanche meat, then dump liquid and thoroughly rinse to remove impurities    Boil pork rib tips with extra marinade on medium heat    When foam starts to form, lower heat and remove foam    When foam all clear, turn to medium high heat and cover loosely with lid    Add chicken broth and wonton soup base    Boil taro/sweet potato in a separate pot    Add taro or sweet potato to soup    Add rice paddy herbs (ngo om) in the last few minutes      </description>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      chicken broth  pork rib tips  japanese sweet potato     macaroni   rice paddy herbs     pepper   shallot     salt   taro     wonton soup base        
+ Instructions   instructions      Marinate the pork rib tips with salt and pepper    Golden minced shallots    Add pork and sear both sides    Add water or chicken broth and adjust to medium high heat    Add sweet potato and boil until cooked    If cooking with taro, boil in a separate pot due to shorter cooking time    Add wonton soup base, adjust to taste    Add rice paddy herbs (ngo om) in the last few minutes    Eat with rice or nui      </description>
     </item>
     
     <item>
@@ -128,8 +128,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/canh-muop-mong-toi/</guid>
-      <description>  Ingredients   Other  Meat  Veggie  Fruit      pepper  dried shrimp  malabar spinach     salt   shallot     wonton soup base   taiwanese okra      
+      <description> Ingredients   Other  Meat  Veggie  Fruit      pepper  dried shrimp  malabar spinach     salt   shallot     wonton soup base   taiwanese okra      
  Instructions   instructions      Soak dried shrimp in hot water and mash dried shrimp    Stir fry taiwanese okra (luffa) &amp;amp; shallots with salt &amp;amp; pepper    Add bowl of dried shrimp &amp;amp; additional water    Add wonton soup base    Add malabar spinach prior to boiling    Adjust to taste as necessary    Canh spoils easily, so refridgerate when cool      </description>
+    </item>
+    
+    <item>
+      <title>Canh Rau Ram</title>
+      <link>/canh-rau-ram/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/canh-rau-ram/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      chicken broth  beef shank  onion     pepper   rau ram     salt   shallot     wonton soup base        
+ Instructions   instructions      Slice shanks and season with salt and pepper    Golden shallots and onions    Sear meat    Add water and adjust to taste with various seasonings    Simmer until cooked    Add chopped raw ram in last few minutes      </description>
     </item>
     
     <item>
@@ -138,7 +148,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/chao/</guid>
-      <description>  Ingredients   Other  Meat  Veggie  Fruit      gio chao quay  chicken  green onions     jasmine rice   shallot     pepper       salt       wonton soup base        
+      <description> Ingredients   Other  Meat  Veggie  Fruit      gio chao quay  chicken  green onions     jasmine rice   shallot     pepper       salt       wonton soup base        
  Instructions   instructions      Marinate chicken with salt, pepper &amp;amp; shallots    Make rice    Boil chicken until sufficient internal temp    Add rice and boil until it has expanded (~1 hr)    Add wonton soup base    Eat with pepper, green onions, shredded chicken, gio chao quay      </description>
     </item>
     
@@ -148,7 +158,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/ga-ca-ri/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      baguette  chicken  carrot     chicken broth   japanese sweet potato     chicken powder   lemongrass     curry powder   potato     pepper   shallot     salt   sweet potato     wonton soup base</description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      baguette  chicken  carrot     chicken broth   corn     chicken powder   garlic     curry powder   ginger     pepper   lemongrass     salt   potato     wonton soup base   shallot       sweet potato</description>
     </item>
     
     <item>
@@ -166,7 +176,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/mi-vit-quay/</guid>
-      <description>  Ingredients   Other  Meat  Veggie  Fruit      chicken broth  roast duck  chives     mi   hanh kho     wonton soup base   lettuce       mustard greens      
+      <description> Ingredients   Other  Meat  Veggie  Fruit      chicken broth  roast duck  chives     mi   hanh kho     wonton soup base   lettuce       mustard greens      
  Instructions   instructions      Buy a whole roast duck at a Chinese barbecue restaurant    Cut up the roast duck, save the bony parts for the broth and refrigerate the rest    Fill large pot 1/4 full with water, add bony duck parts, and sauce (comes with duck)    When the broth starts to boil, fill 3/4 pot with chicken broth and add wonton soup base    Want the broth to maintain a light boil    Wash and cut veggies    Boil the lettuce and mustard greens    Stir fry washed/dried mi until it is a little crunchy, sprinkle with some soy sauce and chives    Eat with mi, veggies, roast duck, broth, and hanh kho      </description>
     </item>
     
@@ -176,7 +186,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/mien-ga/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      fish sauce  chicken bones  chives  date    mien  chicken feet  cilantro     msg  chicken gizzard  dried fungus mushroom     pepper  chicken thigh  garlic     salt   ginger     shallot oil   green onions     sugar   hanh kho     wonton soup base   shallot       vietnamese coriander       yellow onion</description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      fish sauce  chicken bones  chives  date    mien  chicken feet  cilantro     msg  chicken gizzard  dried fungus mushroom     pepper  chicken thigh  garlic     salt   ginger     shallot oil   green onions     sugar   hanh kho     wonton soup base   onion       shallot       vietnamese coriander</description>
     </item>
     
     <item>
@@ -185,7 +195,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/miso-soup/</guid>
-      <description>  Ingredients   Other  Meat  Veggie  Fruit      dashi  tofu  green onions     miso  any  seaweed paper       any      
+      <description> Ingredients   Other  Meat  Veggie  Fruit      dashi  tofu  green onions     miso  any  seaweed paper       any      
  Instructions   instructions      Boil 4 cups water &amp;amp; 2 tsp of dashi granules    Hydrate seaweed paper in warm water    Reduce heat to medium and add meats/veggies &amp;amp; seaweed    Remove from heat and mix in 3 tbsp of blended miso    Garnish with green onions      </description>
     </item>
     
@@ -195,7 +205,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/nui/</guid>
-      <description>  Ingredients   Other  Meat  Veggie  Fruit      macaroni noodles  pork rib tips  mustard greens     pepper   shallot     salt       wonton soup base        
+      <description> Ingredients   Other  Meat  Veggie  Fruit      macaroni noodles  pork rib tips  mustard greens     pepper   shallot     salt       wonton soup base        
  Instructions   instructions      Make pork broth with pork rib tips    Boil mustard greens in pork broth    Make macaroni noodles separately    Eat noodles with pork, greens, and broth      </description>
     </item>
     
