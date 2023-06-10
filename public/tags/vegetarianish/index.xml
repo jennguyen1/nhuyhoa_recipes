@@ -21,7 +21,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/alfredo-dairy-free/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      cashews   japanese sweet potato  date    cornstarch       garlic powder       miso paste       mushroom seasoning       nutritional yeast       pepper       salt       soy milk</description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      cashews   japanese sweet potato  date    garlic powder   onion     miso paste       mushroom seasoning       nutritional yeast       pepper       salt       soy milk</description>
     </item>
     
     <item>
@@ -100,7 +100,7 @@
       
       <guid>/canh-khoai-tay-suon/</guid>
       <description> Ingredients   Other  Meat  Veggie  Fruit      chicken broth  pork rib tips  japanese sweet potato     macaroni   rice paddy herbs     pepper   shallot     salt   taro     wonton soup base        
- Instructions   instructions      Marinate the pork rib tips with salt and pepper    Golden minced shallots    Add pork and sear both sides    Add water or chicken broth and adjust to medium high heat    Add sweet potato and boil until cooked    If cooking with taro, boil in a separate pot due to shorter cooking time    Add wonton soup base, adjust to taste    Add rice paddy herbs (ngo om) in the last few minutes    Eat with rice or nui      </description>
+ Instructions   instructions      Marinate the pork rib tips with salt and pepper    Golden minced shallots    Add one layer of pork and sear both sides until golden; do not crowd pan, use multiple batches if needed    Add water or chicken broth and adjust to medium high heat    Add sweet potato and boil until cooked    If cooking with taro, boil in a separate pot due to shorter cooking time    Add wonton soup base, adjust to taste    Add rice paddy herbs (ngo om) in the last few minutes    Eat with rice or nui      </description>
     </item>
     
     <item>
@@ -111,6 +111,16 @@
       <guid>/canh-muop-mong-toi/</guid>
       <description> Ingredients   Other  Meat  Veggie  Fruit      pepper  dried shrimp  malabar spinach     salt   shallot     wonton soup base   taiwanese okra      
  Instructions   instructions      Soak dried shrimp in hot water and mash dried shrimp    Stir fry taiwanese okra (luffa) &amp;amp; shallots with salt &amp;amp; pepper    Add bowl of dried shrimp &amp;amp; additional water    Add wonton soup base    Add malabar spinach prior to boiling    Adjust to taste as necessary    Canh spoils easily, so refridgerate when cool      </description>
+    </item>
+    
+    <item>
+      <title>Canh Rau Ram</title>
+      <link>/canh-rau-ram/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/canh-rau-ram/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      chicken broth  beef shank  onion     pepper   rau ram     salt   shallot     wonton soup base        
+ Instructions   instructions      Slice shanks and season with salt and pepper    Golden shallots and onions    Sear meat    Add water and adjust to taste with various seasonings    Simmer until cooked    Add chopped raw ram in last few minutes      </description>
     </item>
     
     <item>
@@ -229,7 +239,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/fruit-tart/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      butter    any    cinnamon       cornstarch       eggs       flour       graham crackers       salt       sugar       vanilla       whole milk</description>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      graham cracker crust    any    yogurt        
+ Instructions   instructions      Assemble ingredients      </description>
     </item>
     
     <item>
@@ -333,7 +344,7 @@
       
       <guid>/rau-muong-xao-toi/</guid>
       <description> Ingredients   Other  Meat  Veggie  Fruit      mam tom   garlic       shallot       water spinach      
- Instructions   instructions      Blanche water spinach (rau muong, ong choy) until texture is sufficiently cooked/crunchy    Saute minced shallots and garlic until slightly golden    Add in water spinach    Stir in diluted mam tom    Stir fry for few minutes    Save liquid used for blanching for canh      </description>
+ Instructions   instructions      Blanche water spinach (rau muong, ong choy) until texture is sufficiently cooked/crunchy, stems should go longer than leaves    Saute minced shallots and garlic until slightly golden    Add in water spinach    Stir in diluted mam tom    Stir fry for few minutes    Save liquid used for blanching for canh      </description>
     </item>
     
     <item>
@@ -352,7 +363,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/royal-tea/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      brown sugar       creamer       honey       Tea zone golden milk tea        
+      <description> Ingredients   Other  Meat  Veggie  Fruit      Tea zone golden milk tea       brown sugar       creamer       honey        
  Instructions   instructions      Make tea, combine ingredients and adjust to taste      </description>
     </item>
     

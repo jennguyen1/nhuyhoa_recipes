@@ -21,7 +21,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/alfredo-dairy-free/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      cashews   japanese sweet potato  date    cornstarch       garlic powder       miso paste       mushroom seasoning       nutritional yeast       pepper       salt       soy milk</description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      cashews   japanese sweet potato  date    garlic powder   onion     miso paste       mushroom seasoning       nutritional yeast       pepper       salt       soy milk</description>
     </item>
     
     <item>
@@ -291,7 +291,7 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       
       <guid>/canh-khoai-tay-suon/</guid>
       <description> Ingredients   Other  Meat  Veggie  Fruit      chicken broth  pork rib tips  japanese sweet potato     macaroni   rice paddy herbs     pepper   shallot     salt   taro     wonton soup base        
- Instructions   instructions      Marinate the pork rib tips with salt and pepper    Golden minced shallots    Add pork and sear both sides    Add water or chicken broth and adjust to medium high heat    Add sweet potato and boil until cooked    If cooking with taro, boil in a separate pot due to shorter cooking time    Add wonton soup base, adjust to taste    Add rice paddy herbs (ngo om) in the last few minutes    Eat with rice or nui      </description>
+ Instructions   instructions      Marinate the pork rib tips with salt and pepper    Golden minced shallots    Add one layer of pork and sear both sides until golden; do not crowd pan, use multiple batches if needed    Add water or chicken broth and adjust to medium high heat    Add sweet potato and boil until cooked    If cooking with taro, boil in a separate pot due to shorter cooking time    Add wonton soup base, adjust to taste    Add rice paddy herbs (ngo om) in the last few minutes    Eat with rice or nui      </description>
     </item>
     
     <item>
@@ -458,7 +458,8 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/fruit-tart/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      butter    any    cinnamon       cornstarch       eggs       flour       graham crackers       salt       sugar       vanilla       whole milk</description>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      graham cracker crust    any    yogurt        
+ Instructions   instructions      Assemble ingredients      </description>
     </item>
     
     <item>
@@ -726,7 +727,7 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/nui/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      macaroni noodles  pork rib tips  mustard greens     pepper   shallot     salt       wonton soup base        
+      <description> Ingredients   Other  Meat  Veggie  Fruit      macaroni  pork rib tips  mustard greens     pepper   shallot     salt       wonton soup base        
  Instructions   instructions      Make pork broth with pork rib tips    Boil mustard greens in pork broth    Make macaroni noodles separately    Eat noodles with pork, greens, and broth      </description>
     </item>
     
@@ -775,7 +776,7 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       
       <guid>/rau-muong-xao-toi/</guid>
       <description> Ingredients   Other  Meat  Veggie  Fruit      mam tom   garlic       shallot       water spinach      
- Instructions   instructions      Blanche water spinach (rau muong, ong choy) until texture is sufficiently cooked/crunchy    Saute minced shallots and garlic until slightly golden    Add in water spinach    Stir in diluted mam tom    Stir fry for few minutes    Save liquid used for blanching for canh      </description>
+ Instructions   instructions      Blanche water spinach (rau muong, ong choy) until texture is sufficiently cooked/crunchy, stems should go longer than leaves    Saute minced shallots and garlic until slightly golden    Add in water spinach    Stir in diluted mam tom    Stir fry for few minutes    Save liquid used for blanching for canh      </description>
     </item>
     
     <item>
@@ -794,7 +795,7 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/royal-tea/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      brown sugar       creamer       honey       Tea zone golden milk tea        
+      <description> Ingredients   Other  Meat  Veggie  Fruit      Tea zone golden milk tea       brown sugar       creamer       honey        
  Instructions   instructions      Make tea, combine ingredients and adjust to taste      </description>
     </item>
     
@@ -823,7 +824,7 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/shrimp-po-boy/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      baguette  shrimp  lettuce     Kim Thu Thap Bot Chien   tomato     mayo       sweet chili sauce        
+      <description> Ingredients   Other  Meat  Veggie  Fruit      Kim Thu Thap Bot Chien  shrimp  lettuce     baguette   tomato     mayo       sweet chili sauce        
  Instructions   instructions      Make shrimp tempura according to the Kim Tu That Bot Chien instructions    Toast baguette    Assemble Po Boy with baguette, mayo, lettuce, tomato, shrimp tempura drizzled with sweet chili dipping sauce      </description>
     </item>
     
