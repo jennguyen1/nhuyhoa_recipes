@@ -1,5 +1,11 @@
 library(tidyverse)
 
+# note: order of running
+# run_recipes()
+# blogdown::build_site()
+# blogdown::serve_site()
+
+
 # generate recipe RMD files for website
 make_script <- function(df){
 
