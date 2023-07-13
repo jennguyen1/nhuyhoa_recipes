@@ -1,6 +1,6 @@
 ---
 title: "Bo Xao Khoai Tay Chien (Beef and French Fries Stir Fry)"
-tags: ['Entree', 'Vietnamese']
+tags: ['Entree', 'Vietnamese', 'Vegetarianish']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}
