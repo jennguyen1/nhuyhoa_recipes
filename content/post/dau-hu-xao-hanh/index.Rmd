@@ -1,6 +1,6 @@
 ---
-title: "Mango Sticky Rice"
-tags: ['Dessert', 'Vegetarianish']
+title: "Dau Hu Xao Hanh (Stir Fried Tofu and Green Onions)"
+tags: ['Entree', 'Vietnamese', 'Vegetarianish']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}
@@ -8,7 +8,7 @@ library(tidyverse)
 library(RSQLite)
 library(knitr)
 
-recipe_name <- 'Mango Sticky Rice'
+recipe_name <- 'Dau Hu Xao Hanh (Stir Fried Tofu and Green Onions)'
 connect <- RSQLite::dbConnect(drv = RSQLite::SQLite(), dbname = '../../../data/recipes.db')
 ingredients_query <- glue::glue('SELECT * FROM ingredients WHERE recipe = "{recipe_name}"')
 instructions_query <- glue::glue('SELECT * FROM instructions WHERE recipe = "{recipe_name}"')
@@ -36,7 +36,7 @@ display_instructions <- instructions %>%
   dplyr::select(instructions)
 ```
 
-![](Mango_Sticky_Rice.JPG)
+![](Dau_Hu_Xao_Hanh.JPG)
 
 
 
