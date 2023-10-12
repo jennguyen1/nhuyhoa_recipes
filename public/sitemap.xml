@@ -76,13 +76,13 @@
   </url><url>
     <loc>/com-chien/</loc>
   </url><url>
+    <loc>/dau-hu-sot-ca-chua/</loc>
+  </url><url>
     <loc>/dau-hu-teriyaki/</loc>
   </url><url>
-    <loc>/dau-sot-ca-chua/</loc>
+    <loc>/dau-hu-xao-hanh/</loc>
   </url><url>
     <loc>/dau-xanh-xao/</loc>
-  </url><url>
-    <loc>/dau-xao-hanh/</loc>
   </url><url>
     <loc>/tags/dessert/</loc>
   </url><url>
@@ -126,13 +126,13 @@
   </url><url>
     <loc>/goi-ga/</loc>
   </url><url>
-    <loc>/goi-my/</loc>
-  </url><url>
     <loc>/goi-salsa/</loc>
   </url><url>
     <loc>/ground-meat/</loc>
   </url><url>
     <loc>/hanh-kho/</loc>
+  </url><url>
+    <loc>/kothu-parotta/</loc>
   </url><url>
     <loc>/mam-tom-chung/</loc>
   </url><url>
@@ -145,8 +145,6 @@
     <loc>/mi-xao/</loc>
   </url><url>
     <loc>/mien-ga/</loc>
-  </url><url>
-    <loc>/miso-soup/</loc>
   </url><url>
     <loc>/mochi/</loc>
   </url><url>
@@ -175,6 +173,8 @@
     <loc>/roast-sweet-potato/</loc>
   </url><url>
     <loc>/royal-tea/</loc>
+  </url><url>
+    <loc>/salad-dressing/</loc>
   </url><url>
     <loc>/shawarma-wrap/</loc>
   </url><url>
@@ -205,6 +205,8 @@
     <loc>/thit-xa-xiu/</loc>
   </url><url>
     <loc>/tom-rang-me/</loc>
+  </url><url>
+    <loc>/tzatziki-sauce/</loc>
   </url><url>
     <loc>/tags/vegetarianish/</loc>
   </url><url>

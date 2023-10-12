@@ -54,6 +54,15 @@
     </item>
     
     <item>
+      <title>Bo Xao Khoai Tay Chien (Beef and French Fries Stir Fry)</title>
+      <link>/bo-xao-khoai-tay-chien/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bo-xao-khoai-tay-chien/</guid>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      oyster sauce  beef  cilantro     pepper   fries     salt   garlic       mushroom       onion       shallot       tomato</description>
+    </item>
+    
+    <item>
       <title>Canh Bau (Opo Squash Soup)</title>
       <link>/canh-bau/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -154,6 +163,16 @@
     </item>
     
     <item>
+      <title>Dau Hu Sot Ca Chua (Fried Tofu with Tomato Sauce)</title>
+      <link>/dau-hu-sot-ca-chua/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/dau-hu-sot-ca-chua/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  tofu  garlic       green onions       onion       tomato      
+ Instructions   instructions      Fry tofu    Saute onions, garlic, and tomato in a pot    When tomatoes have softened, add very small bowl of water    Add fried tofu    Add with nuoc mam and water for flavor    Add a starch slurry and simmer for 15 min    Add green onions in last few minutes      </description>
+    </item>
+    
+    <item>
       <title>Dau Hu Teriyaki (Teriyaki Tofu)</title>
       <link>/dau-hu-teriyaki/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -164,13 +183,13 @@
     </item>
     
     <item>
-      <title>Dau Sot Ca Chua (Fried Tofu with Tomato Sauce)</title>
-      <link>/dau-sot-ca-chua/</link>
+      <title>Dau Hu Xao Hanh (Stir Fried Tofu and Green Onions)</title>
+      <link>/dau-hu-xao-hanh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/dau-sot-ca-chua/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  tofu  green onions       onion       tomato      
- Instructions   instructions      Fry tofu    Heat yellow onion and tomatoes in pot on medium heat    When tomatoes have softened, add very small bowl of water    Add fried tofu    Add with nuoc mam and water for flavor    Add a starch slurry and simmer for 15 min    Add green onions in last few minutes      </description>
+      <guid>/dau-hu-xao-hanh/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  tofu  green onions       shallot      
+ Instructions   instructions      Cut shallots and green onions    Make a 1:1 mixture of water and nuoc mam in a small bowl    Fry tofu    Saute minced shallots until slightly golden    Add green onions and stir until they soften    Add tofu and sauce mixture    Stir and adjust to taste, remove from heat after a few minutes      </description>
     </item>
     
     <item>
@@ -181,16 +200,6 @@
       <guid>/dau-xanh-xao/</guid>
       <description> Ingredients   Other  Meat  Veggie  Fruit      oyster sauce   garlic     pepper   green beans     salt   hanh kho       mushroom       onion       shallot      
  Instructions   instructions      Saute minced shallots and garlic until slightly golden    Stir in green beans, mushrooms, and sliced onion until soft    Drizzle in diluted oyster sauce (1:1 ratio)      </description>
-    </item>
-    
-    <item>
-      <title>Dau Xao Hanh (Stir Fried Tofu and Green Onions)</title>
-      <link>/dau-xao-hanh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/dau-xao-hanh/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  tofu  green onions       shallot      
- Instructions   instructions      Cut shallots and green onions    Make a 1:1 mixture of water and nuoc mam in a small bowl    Fry tofu    Saute minced shallots until slightly golden    Add green onions and stir until they soften    Add tofu and sauce mixture    Stir and adjust to taste, remove from heat after a few minutes      </description>
     </item>
     
     <item>
@@ -272,21 +281,21 @@
     </item>
     
     <item>
-      <title>Goi My (Salad American Style)</title>
-      <link>/goi-my/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/goi-my/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      banana chips   cabbage  avocado    pepper   cilantro  cranberry    pita chips   corn  lime    salt   cucumber  mandarin orange    sugar   edamame  strawberry      mint  watermelon      spinach  any      tomato</description>
-    </item>
-    
-    <item>
       <title>Goi Salsa (Salsa)</title>
       <link>/goi-salsa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/goi-salsa/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      banana chips   cabbage  avocado    pepper   cilantro  lime    pita chips   corn  mandarin orange    salt   cucumber  mango    sugar   edamame  any      lettuce       mint       red onion       tomato       any</description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      pepper   cabbage  avocado    pita chips   cilantro  lime    salt   corn  mandarin orange    sugar   cucumber  mango      edamame  any      lettuce       mint       red onion       tomato       any</description>
+    </item>
+    
+    <item>
+      <title>Kothu Parotta</title>
+      <link>/kothu-parotta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/kothu-parotta/</guid>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      garam masala  egg  cilantro     ground coriander   cilantro     ground cumin   cucumber     leftover curry sauce   dill     parotta   garlic     pepper   ginger     salt   mint     yogurt   onion       tomato</description>
     </item>
     
     <item>
@@ -297,16 +306,6 @@
       <guid>/mango-sticky-rice/</guid>
       <description> Ingredients   Other  Meat  Veggie  Fruit      coconut milk    mango    salt       sugar       sweet rice        
  Instructions   instructions      Rinse and soak sweet rice in cold water overnight    Cook sweet rice in rice cooker    Make coconut sauce by heating half can of coconut milk with 3 sugar : 1 salt mixture and a starchy slurry, adjust to taste    Soak xoi with coconut sauce and let it sit for 30 min before serving    Serve with cold mangoes      </description>
-    </item>
-    
-    <item>
-      <title>Miso Soup</title>
-      <link>/miso-soup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/miso-soup/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      dashi  tofu  green onions     miso  any  seaweed paper       any      
- Instructions   instructions      Boil 4 cups water &amp;amp; 2 tsp of dashi granules    Hydrate seaweed paper in warm water    Reduce heat to medium and add meats/veggies &amp;amp; seaweed    Remove from heat and mix in 3 tbsp of blended miso    Garnish with green onions      </description>
     </item>
     
     <item>
@@ -365,6 +364,15 @@
       <guid>/royal-tea/</guid>
       <description> Ingredients   Other  Meat  Veggie  Fruit      Tea zone golden milk tea       brown sugar       creamer       honey        
  Instructions   instructions      Make tea, combine ingredients and adjust to taste      </description>
+    </item>
+    
+    <item>
+      <title>Salad Dressing</title>
+      <link>/salad-dressing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/salad-dressing/</guid>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      balsamic vinegar   ginger  date    dijon mustard   shallot     oil       pepper       rice vinegar       salt       sesame oil       white miso</description>
     </item>
     
     <item>

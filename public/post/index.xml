@@ -124,8 +124,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/bo-xao-khoai-tay-chien/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      oyster sauce  beef  cilantro     pepper   fries     salt   garlic       onion       shallot       tomato      
- Instructions   instructions      Marinate sliced beef with salt, pepper, minced shallots, garlic, and a pinch of oil    Fry potatoes    Stir fry beef until cooked but moist (remove excess liquid)    Add fries, sliced tomatoes and onions    Drizzle in diluted oyster sauce (1:1 ratio)    Garnish with cilantro      </description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      oyster sauce  beef  cilantro     pepper   fries     salt   garlic       mushroom       onion       shallot       tomato</description>
     </item>
     
     <item>
@@ -364,6 +363,16 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
     </item>
     
     <item>
+      <title>Dau Hu Sot Ca Chua (Fried Tofu with Tomato Sauce)</title>
+      <link>/dau-hu-sot-ca-chua/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/dau-hu-sot-ca-chua/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  tofu  garlic       green onions       onion       tomato      
+ Instructions   instructions      Fry tofu    Saute onions, garlic, and tomato in a pot    When tomatoes have softened, add very small bowl of water    Add fried tofu    Add with nuoc mam and water for flavor    Add a starch slurry and simmer for 15 min    Add green onions in last few minutes      </description>
+    </item>
+    
+    <item>
       <title>Dau Hu Teriyaki (Teriyaki Tofu)</title>
       <link>/dau-hu-teriyaki/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -374,13 +383,13 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
     </item>
     
     <item>
-      <title>Dau Sot Ca Chua (Fried Tofu with Tomato Sauce)</title>
-      <link>/dau-sot-ca-chua/</link>
+      <title>Dau Hu Xao Hanh (Stir Fried Tofu and Green Onions)</title>
+      <link>/dau-hu-xao-hanh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/dau-sot-ca-chua/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  tofu  green onions       onion       tomato      
- Instructions   instructions      Fry tofu    Heat yellow onion and tomatoes in pot on medium heat    When tomatoes have softened, add very small bowl of water    Add fried tofu    Add with nuoc mam and water for flavor    Add a starch slurry and simmer for 15 min    Add green onions in last few minutes      </description>
+      <guid>/dau-hu-xao-hanh/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  tofu  green onions       shallot      
+ Instructions   instructions      Cut shallots and green onions    Make a 1:1 mixture of water and nuoc mam in a small bowl    Fry tofu    Saute minced shallots until slightly golden    Add green onions and stir until they soften    Add tofu and sauce mixture    Stir and adjust to taste, remove from heat after a few minutes      </description>
     </item>
     
     <item>
@@ -391,16 +400,6 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <guid>/dau-xanh-xao/</guid>
       <description> Ingredients   Other  Meat  Veggie  Fruit      oyster sauce   garlic     pepper   green beans     salt   hanh kho       mushroom       onion       shallot      
  Instructions   instructions      Saute minced shallots and garlic until slightly golden    Stir in green beans, mushrooms, and sliced onion until soft    Drizzle in diluted oyster sauce (1:1 ratio)      </description>
-    </item>
-    
-    <item>
-      <title>Dau Xao Hanh (Stir Fried Tofu and Green Onions)</title>
-      <link>/dau-xao-hanh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/dau-xao-hanh/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  tofu  green onions       shallot      
- Instructions   instructions      Cut shallots and green onions    Make a 1:1 mixture of water and nuoc mam in a small bowl    Fry tofu    Saute minced shallots until slightly golden    Add green onions and stir until they soften    Add tofu and sauce mixture    Stir and adjust to taste, remove from heat after a few minutes      </description>
     </item>
     
     <item>
@@ -526,7 +525,7 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       
       <guid>/ga-teriyaki/</guid>
       <description> Ingredients   Other  Meat  Veggie  Fruit      pepper  chicken thigh      salt       teriyaki sauce        
- Instructions   instructions      Debone skin-on chicken thighs and prick both sides of chicken with fork    Salt chicken and let sit for a while to drain water    Marinate chicken with salt and pepper    On medium high heat, cook chicken skin-side down (no oil) until crispy then flip and cook until fully cooked    Add teriyaki sauce and simmer on medium heat until the sauce becomes thick    Cut chicken into bite-sized pieces and pour extra sauce on top      </description>
+ Instructions   instructions      Debone skin-on chicken thighs and prick both sides of chicken with fork    Salt chicken and let sit for a while to drain water    Marinate chicken with salt and pepper    On medium high heat, cook chicken skin-side down (no oil) until crispy then flip and cook until fully cooked    Cut chicken with scissors into bit-sized pieces and pour sauce on top      </description>
     </item>
     
     <item>
@@ -587,21 +586,12 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
     </item>
     
     <item>
-      <title>Goi My (Salad American Style)</title>
-      <link>/goi-my/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/goi-my/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      banana chips   cabbage  avocado    pepper   cilantro  cranberry    pita chips   corn  lime    salt   cucumber  mandarin orange    sugar   edamame  strawberry      mint  watermelon      spinach  any      tomato</description>
-    </item>
-    
-    <item>
       <title>Goi Salsa (Salsa)</title>
       <link>/goi-salsa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/goi-salsa/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      banana chips   cabbage  avocado    pepper   cilantro  lime    pita chips   corn  mandarin orange    salt   cucumber  mango    sugar   edamame  any      lettuce       mint       red onion       tomato       any</description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      pepper   cabbage  avocado    pita chips   cilantro  lime    salt   corn  mandarin orange    sugar   cucumber  mango      edamame  any      lettuce       mint       red onion       tomato       any</description>
     </item>
     
     <item>
@@ -622,6 +612,15 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <guid>/hanh-kho/</guid>
       <description> Ingredients   Other  Meat  Veggie  Fruit        onion       shallot      
  Instructions   instructions      Slice shallots or onions into slices    Let it sit for a couple hours in the sun to dry    Heat some oil on low    Mix the slices with some flour    Add the slices to the oil    Remove slices when it has a light golden color    Let the fried slices dry for a few hours in the sun      </description>
+    </item>
+    
+    <item>
+      <title>Kothu Parotta</title>
+      <link>/kothu-parotta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/kothu-parotta/</guid>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      garam masala  egg  cilantro     ground coriander   cilantro     ground cumin   cucumber     leftover curry sauce   dill     parotta   garlic     pepper   ginger     salt   mint     yogurt   onion       tomato</description>
     </item>
     
     <item>
@@ -679,16 +678,6 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       
       <guid>/mien-ga/</guid>
       <description>Ingredients   Other  Meat  Veggie  Fruit      fish sauce  chicken bones  chives  date    mien  chicken feet  cilantro     msg  chicken gizzard  dried fungus mushroom     pepper  chicken thigh  garlic     salt   ginger     shallot oil   green onions     sugar   hanh kho     wonton soup base   onion       shallot       vietnamese coriander</description>
-    </item>
-    
-    <item>
-      <title>Miso Soup</title>
-      <link>/miso-soup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/miso-soup/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      dashi  tofu  green onions     miso  any  seaweed paper       any      
- Instructions   instructions      Boil 4 cups water &amp;amp; 2 tsp of dashi granules    Hydrate seaweed paper in warm water    Reduce heat to medium and add meats/veggies &amp;amp; seaweed    Remove from heat and mix in 3 tbsp of blended miso    Garnish with green onions      </description>
     </item>
     
     <item>
@@ -797,6 +786,15 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <guid>/royal-tea/</guid>
       <description> Ingredients   Other  Meat  Veggie  Fruit      Tea zone golden milk tea       brown sugar       creamer       honey        
  Instructions   instructions      Make tea, combine ingredients and adjust to taste      </description>
+    </item>
+    
+    <item>
+      <title>Salad Dressing</title>
+      <link>/salad-dressing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/salad-dressing/</guid>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      balsamic vinegar   ginger  date    dijon mustard   shallot     oil       pepper       rice vinegar       salt       sesame oil       white miso</description>
     </item>
     
     <item>
@@ -922,6 +920,16 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <guid>/tom-rang-me/</guid>
       <description> Ingredients   Other  Meat  Veggie  Fruit      cornstarch  shrimp  cabbage     nuoc mam   ginger     pepper   green onions     salt   onion     sugar   shallot     tamarind        
  Instructions   instructions      Make sauce using ratio of 2 sugar : 2 tamarind concentrate : 1 nuoc mam; should taste sweet and sour    Marinate shrimp with salt, pepper, shallots and cornstarch    Prepare the veggies    Saute minced shallots and garlic until slightly golden    Add sauce and simmer until thick    Add shrimp and stir until mostly cooked    Stir in cabbage    Turn off heat and add yellow and green onion    Cover for few minutes      </description>
+    </item>
+    
+    <item>
+      <title>Tzatziki Sauce</title>
+      <link>/tzatziki-sauce/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tzatziki-sauce/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      garlic powder   cilantro     mayo   cucumber     yogurt   dill       mint      
+ Instructions   instructions      Mix yogurt, mayo, cubed cucumber, and minced herbs      </description>
     </item>
     
     <item>

@@ -97,8 +97,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/bo-xao-khoai-tay-chien/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      oyster sauce  beef  cilantro     pepper   fries     salt   garlic       onion       shallot       tomato      
- Instructions   instructions      Marinate sliced beef with salt, pepper, minced shallots, garlic, and a pinch of oil    Fry potatoes    Stir fry beef until cooked but moist (remove excess liquid)    Add fries, sliced tomatoes and onions    Drizzle in diluted oyster sauce (1:1 ratio)    Garnish with cilantro      </description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      oyster sauce  beef  cilantro     pepper   fries     salt   garlic       mushroom       onion       shallot       tomato</description>
     </item>
     
     <item>
@@ -318,13 +317,23 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
     </item>
     
     <item>
-      <title>Dau Sot Ca Chua (Fried Tofu with Tomato Sauce)</title>
-      <link>/dau-sot-ca-chua/</link>
+      <title>Dau Hu Sot Ca Chua (Fried Tofu with Tomato Sauce)</title>
+      <link>/dau-hu-sot-ca-chua/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/dau-sot-ca-chua/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  tofu  green onions       onion       tomato      
- Instructions   instructions      Fry tofu    Heat yellow onion and tomatoes in pot on medium heat    When tomatoes have softened, add very small bowl of water    Add fried tofu    Add with nuoc mam and water for flavor    Add a starch slurry and simmer for 15 min    Add green onions in last few minutes      </description>
+      <guid>/dau-hu-sot-ca-chua/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  tofu  garlic       green onions       onion       tomato      
+ Instructions   instructions      Fry tofu    Saute onions, garlic, and tomato in a pot    When tomatoes have softened, add very small bowl of water    Add fried tofu    Add with nuoc mam and water for flavor    Add a starch slurry and simmer for 15 min    Add green onions in last few minutes      </description>
+    </item>
+    
+    <item>
+      <title>Dau Hu Xao Hanh (Stir Fried Tofu and Green Onions)</title>
+      <link>/dau-hu-xao-hanh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/dau-hu-xao-hanh/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  tofu  green onions       shallot      
+ Instructions   instructions      Cut shallots and green onions    Make a 1:1 mixture of water and nuoc mam in a small bowl    Fry tofu    Saute minced shallots until slightly golden    Add green onions and stir until they soften    Add tofu and sauce mixture    Stir and adjust to taste, remove from heat after a few minutes      </description>
     </item>
     
     <item>
@@ -335,16 +344,6 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <guid>/dau-xanh-xao/</guid>
       <description> Ingredients   Other  Meat  Veggie  Fruit      oyster sauce   garlic     pepper   green beans     salt   hanh kho       mushroom       onion       shallot      
  Instructions   instructions      Saute minced shallots and garlic until slightly golden    Stir in green beans, mushrooms, and sliced onion until soft    Drizzle in diluted oyster sauce (1:1 ratio)      </description>
-    </item>
-    
-    <item>
-      <title>Dau Xao Hanh (Stir Fried Tofu and Green Onions)</title>
-      <link>/dau-xao-hanh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/dau-xao-hanh/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  tofu  green onions       shallot      
- Instructions   instructions      Cut shallots and green onions    Make a 1:1 mixture of water and nuoc mam in a small bowl    Fry tofu    Saute minced shallots until slightly golden    Add green onions and stir until they soften    Add tofu and sauce mixture    Stir and adjust to taste, remove from heat after a few minutes      </description>
     </item>
     
     <item>
