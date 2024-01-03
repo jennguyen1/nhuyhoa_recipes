@@ -1,6 +1,7 @@
 library(tidyverse)
 
 # note: order of running
+# delete index.html files
 # run_recipes()
 # blogdown::build_site()
 # blogdown::serve_site()
