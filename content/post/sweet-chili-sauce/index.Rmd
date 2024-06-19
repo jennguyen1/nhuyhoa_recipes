@@ -1,6 +1,6 @@
 ---
-title: "Pancakes"
-tags: ['Dessert', 'Vegetarianish']
+title: "Sweet Chili Sauce"
+tags: ['Other']
 ---
 
 ```{r, echo = FALSE, warning = FALSE}
@@ -8,7 +8,7 @@ library(tidyverse)
 library(RSQLite)
 library(knitr)
 
-recipe_name <- 'Pancakes'
+recipe_name <- 'Sweet Chili Sauce'
 connect <- RSQLite::dbConnect(drv = RSQLite::SQLite(), dbname = '../../../data/recipes.db')
 ingredients_query <- glue::glue('SELECT * FROM ingredients WHERE recipe = "{recipe_name}"')
 instructions_query <- glue::glue('SELECT * FROM instructions WHERE recipe = "{recipe_name}"')

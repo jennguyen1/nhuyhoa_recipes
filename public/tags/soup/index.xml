@@ -40,7 +40,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/bun-rieu/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      bun  eggs  bean sprouts     chicken broth  ground chicken  cilantro     crab paste  ground pork  green onions     mam tom  shrimp  lettuce     salt  tofu  mint     wonton soup base  tofu puffs  onion       shallot       tofu puffs       tomato       water spinach</description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      bun  eggs  bean sprouts     chicken broth  ground chicken  cilantro     crab paste  ground pork  green onions     mam tom  shrimp  lettuce     salt  tofu  mint     wonton soup base  tofu puffs  onion      tofu puffs  shallot       tomato       water spinach</description>
     </item>
     
     <item>
@@ -59,8 +59,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/canh-ca-chua-dau-hu/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  fish tofu  cilantro     wonton soup base  pork rib tips  green onions      tofu  onion      tofu puffs  shallot       tomato      
- Instructions   instructions      Heat yellow onion, shallots, and tomatoes in pot on medium heat    When tomatoes have softened, add 1 bowl of water    Add tofu (fried if desired), soy puffs, pork chops, or fish tofu    Add wonton soup base and nuoc mam, adjust to taste    Simmer for 15 minutes    Add cilantro, green onions, etc in last few minutes      </description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  fish tofu  cilantro     wonton soup base  pork rib tips  garlic      tofu  green onions      tofu puffs  onion       shallot       tomato</description>
     </item>
     
     <item>
@@ -119,7 +118,7 @@
       
       <guid>/canh-khoai-tay-suon/</guid>
       <description> Ingredients   Other  Meat  Veggie  Fruit      chicken broth  pork rib tips  japanese sweet potato     macaroni   rice paddy herbs     pepper   shallot     salt   taro     wonton soup base        
- Instructions   instructions      Marinate the pork rib tips with salt and pepper    Golden minced shallots    Add one layer of pork and sear both sides until golden; do not crowd pan, use multiple batches if needed    Add water or chicken broth and adjust to medium high heat    Add sweet potato and boil until cooked    If cooking with taro, boil in a separate pot due to shorter cooking time    Add wonton soup base, adjust to taste    Add rice paddy herbs (ngo om) in the last few minutes    Eat with rice or nui      </description>
+ Instructions   instructions      Marinate the pork rib tips with salt and pepper    Add one layer of pork and sear both sides until golden; do not crowd pan, use multiple batches if needed    Golden minced shallots    Add water or chicken broth and adjust to medium high heat    Add sweet potato and simmer until cooked    If cooking with taro, boil in a separate pot due to shorter cooking time    Add wonton soup base, adjust to taste    Add rice paddy herbs (ngo om) in the last few minutes    Eat with rice or nui      </description>
     </item>
     
     <item>
@@ -138,8 +137,17 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/canh-rau-ram/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      chicken broth  beef shank  onion     pepper   rau ram     salt   shallot     wonton soup base        
+      <description> Ingredients   Other  Meat  Veggie  Fruit      chicken broth  beef shank  onion     pepper   shallot     salt   vietnamese coriander     wonton soup base        
  Instructions   instructions      Slice shanks and season with salt and pepper    Golden shallots and onions    Sear meat    Add water and adjust to taste with various seasonings    Simmer until cooked    Add chopped raw ram in last few minutes      </description>
+    </item>
+    
+    <item>
+      <title>Cauliflower Soup</title>
+      <link>/cauliflower-soup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cauliflower-soup/</guid>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      bread   cauliflower  lime    chicken broth   chives     gold raisins   cilantro     ground coriander   dill     ground cumin   garlic     pepper   mint     salt   onion     yogurt   shallot</description>
     </item>
     
     <item>
@@ -148,8 +156,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/chao/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      gio chao quay  chicken  green onions     jasmine rice   shallot     pepper       salt       wonton soup base        
- Instructions   instructions      Marinate chicken with salt, pepper &amp;amp; shallots    Make rice    Boil chicken until sufficient internal temp    Add rice and boil until it has expanded (~1 hr)    Add wonton soup base    Eat with pepper, green onions, shredded chicken, gio chao quay      </description>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      gio chao quay  chicken  ginger     jasmine rice   green onions     pepper   shallot     salt       wonton soup base        
+ Instructions   instructions      Marinate chicken with salt, pepper &amp;amp; shallots    Make rice    Boil chicken until sufficient internal temp    Add rice, smashed ginger, and boil until it has expanded (~1 hr)    Add wonton soup base    Eat with pepper, green onions, shredded chicken, gio chao quay      </description>
     </item>
     
     <item>
@@ -159,6 +167,15 @@
       
       <guid>/ga-ca-ri/</guid>
       <description>Ingredients   Other  Meat  Veggie  Fruit      baguette  chicken  carrot     chicken broth   corn     chicken powder   garlic     curry powder   ginger     pepper   lemongrass     salt   potato     wonton soup base   shallot       sweet potato</description>
+    </item>
+    
+    <item>
+      <title>Galbitang (Korean Beef Short Rib Soup)</title>
+      <link>/galbitang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/galbitang/</guid>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      fish sauce  beef short ribs  daikon     pepper   garlic     salt   green onions     sesame oil   onion     soy sauce   seaweed     thick glass noodles   shallot</description>
     </item>
     
     <item>
@@ -187,6 +204,16 @@
       
       <guid>/mien-ga/</guid>
       <description>Ingredients   Other  Meat  Veggie  Fruit      fish sauce  chicken bones  chives  date    mien  chicken feet  cilantro     msg  chicken gizzard  dried fungus mushroom     pepper  chicken thigh  garlic     salt   ginger     shallot oil   green onions     sugar   hanh kho     wonton soup base   onion       shallot       vietnamese coriander</description>
+    </item>
+    
+    <item>
+      <title>Mint Pea Soup</title>
+      <link>/mint-pea-soup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/mint-pea-soup/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      chicken broth   garlic     ground coriander   mint     ground cumin   onion     pepper   pea     salt   shallot     yogurt        
+ Instructions   instructions      Caramelize onion and shallots with a sprinkle of salt    Once browned, add minced garlic and ground coriander &amp;amp; cumin    Add peas and chicken broth to just cover, adjust to taste    Simmer until peas are cooked (2-4 min)    Cool then blend with mints and a spoon of yogurt until smooth    Adjust to taste with salt &amp;amp; pepper    Garnish with sliced mint      </description>
     </item>
     
     <item>

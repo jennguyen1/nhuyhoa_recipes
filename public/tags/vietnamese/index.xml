@@ -68,7 +68,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/banh-xeo/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      beer  pork belly  bean sprouts     nuoc mam pha  shrimp  green onions     oil   lettuce     pepper   mint     perilla   onion     rice flour   shallot     salt       tapioca starch       turmeric</description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      beer  pork belly  bean sprouts     nuoc mam pha  shrimp  green onions     oil   lettuce     pepper   mint     rice flour   onion     salt   perilla     tapioca starch   shallot     turmeric</description>
     </item>
     
     <item>
@@ -125,7 +125,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/bun-rieu/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      bun  eggs  bean sprouts     chicken broth  ground chicken  cilantro     crab paste  ground pork  green onions     mam tom  shrimp  lettuce     salt  tofu  mint     wonton soup base  tofu puffs  onion       shallot       tofu puffs       tomato       water spinach</description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      bun  eggs  bean sprouts     chicken broth  ground chicken  cilantro     crab paste  ground pork  green onions     mam tom  shrimp  lettuce     salt  tofu  mint     wonton soup base  tofu puffs  onion      tofu puffs  shallot       tomato       water spinach</description>
     </item>
     
     <item>
@@ -184,8 +184,7 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/canh-ca-chua-dau-hu/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  fish tofu  cilantro     wonton soup base  pork rib tips  green onions      tofu  onion      tofu puffs  shallot       tomato      
- Instructions   instructions      Heat yellow onion, shallots, and tomatoes in pot on medium heat    When tomatoes have softened, add 1 bowl of water    Add tofu (fried if desired), soy puffs, pork chops, or fish tofu    Add wonton soup base and nuoc mam, adjust to taste    Simmer for 15 minutes    Add cilantro, green onions, etc in last few minutes      </description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  fish tofu  cilantro     wonton soup base  pork rib tips  garlic      tofu  green onions      tofu puffs  onion       shallot       tomato</description>
     </item>
     
     <item>
@@ -244,7 +243,7 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       
       <guid>/canh-khoai-tay-suon/</guid>
       <description> Ingredients   Other  Meat  Veggie  Fruit      chicken broth  pork rib tips  japanese sweet potato     macaroni   rice paddy herbs     pepper   shallot     salt   taro     wonton soup base        
- Instructions   instructions      Marinate the pork rib tips with salt and pepper    Golden minced shallots    Add one layer of pork and sear both sides until golden; do not crowd pan, use multiple batches if needed    Add water or chicken broth and adjust to medium high heat    Add sweet potato and boil until cooked    If cooking with taro, boil in a separate pot due to shorter cooking time    Add wonton soup base, adjust to taste    Add rice paddy herbs (ngo om) in the last few minutes    Eat with rice or nui      </description>
+ Instructions   instructions      Marinate the pork rib tips with salt and pepper    Add one layer of pork and sear both sides until golden; do not crowd pan, use multiple batches if needed    Golden minced shallots    Add water or chicken broth and adjust to medium high heat    Add sweet potato and simmer until cooked    If cooking with taro, boil in a separate pot due to shorter cooking time    Add wonton soup base, adjust to taste    Add rice paddy herbs (ngo om) in the last few minutes    Eat with rice or nui      </description>
     </item>
     
     <item>
@@ -263,7 +262,7 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/canh-rau-ram/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      chicken broth  beef shank  onion     pepper   rau ram     salt   shallot     wonton soup base        
+      <description> Ingredients   Other  Meat  Veggie  Fruit      chicken broth  beef shank  onion     pepper   shallot     salt   vietnamese coriander     wonton soup base        
  Instructions   instructions      Slice shanks and season with salt and pepper    Golden shallots and onions    Sear meat    Add water and adjust to taste with various seasonings    Simmer until cooked    Add chopped raw ram in last few minutes      </description>
     </item>
     
@@ -283,7 +282,7 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/cha-ca/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  shrimp  dill     nuoc mam pha  tilapia fish  garlic     pepper   shallot     salt       sugar       tapioca starch</description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  basa catfish  dill     nuoc mam pha  shrimp  garlic     pepper   onion     salt   shallot     sugar       tapioca starch</description>
     </item>
     
     <item>
@@ -292,8 +291,8 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/chao/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      gio chao quay  chicken  green onions     jasmine rice   shallot     pepper       salt       wonton soup base        
- Instructions   instructions      Marinate chicken with salt, pepper &amp;amp; shallots    Make rice    Boil chicken until sufficient internal temp    Add rice and boil until it has expanded (~1 hr)    Add wonton soup base    Eat with pepper, green onions, shredded chicken, gio chao quay      </description>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      gio chao quay  chicken  ginger     jasmine rice   green onions     pepper   shallot     salt       wonton soup base        
+ Instructions   instructions      Marinate chicken with salt, pepper &amp;amp; shallots    Make rice    Boil chicken until sufficient internal temp    Add rice, smashed ginger, and boil until it has expanded (~1 hr)    Add wonton soup base    Eat with pepper, green onions, shredded chicken, gio chao quay      </description>
     </item>
     
     <item>
@@ -342,8 +341,8 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/dau-xanh-xao/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      oyster sauce   garlic     pepper   green beans     salt   hanh kho       mushroom       onion       shallot      
- Instructions   instructions      Saute minced shallots and garlic until slightly golden    Stir in green beans, mushrooms, and sliced onion until soft    Drizzle in diluted oyster sauce (1:1 ratio)      </description>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      oyster sauce   garlic     pepper   green bean     salt   hanh kho       mushroom       onion       shallot      
+ Instructions   instructions      Steam green beans for about half the cook time    Saute minced shallots and garlic until slightly golden    Stir in green beans, mushrooms, and sliced onion until soft    Drizzle in diluted oyster sauce (1:1 ratio)      </description>
     </item>
     
     <item>
@@ -420,7 +419,7 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/ga-xao-sa-ot/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      chicken boullion  chicken thigh  garlic     fish sauce   hot pepper     oyster sauce   lemongrass     sugar   shallot     turmeric        
+      <description>Ingredients   Other  Meat  Veggie  Fruit      chicken boullion  chicken thigh  chili pepper     fish sauce   garlic     oyster sauce   lemongrass     sugar   shallot     turmeric        
  Instructions   instructions      Mince shallots, lemongrass, garlic, and hot pepper    Cut chicken into bite-sized pieces    Marinate with a ratio of 1 chicken bouillon : 1 sugar : 3 fish sauce : 1 oyster sauce : 0.</description>
     </item>
     
@@ -450,7 +449,7 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/goi-cuon-cham-mam-nem/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      bun  beef  cucumber  pineapple    butter  shrimp  garlic     mam nem  squid  lettuce     rice paper   mint     sugar   shallot       thai basil</description>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      bun  beef  cucumber  pineapple    butter  shrimp  garlic     mam nem  squid  lemongrass     rice paper   lettuce     sugar   mint       shallot       thai basil</description>
     </item>
     
     <item>
@@ -565,8 +564,8 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/nuoc-mam-pha/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      nuoc mam   garlic     sugar       vinegar        
- Instructions   instructions      Add sugar to a large bowl and level out    Pour vinegar into the bowl, slightly over the surface of the sugar    Add nuoc mam, about 1/3 of current level    Mix in water to dilute    Adjust to taste, should be sweet and sour, not salty    Mix in minced garlic      </description>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      nuoc mam   garlic  calamansi lime juice    sugar       vinegar        
+ Instructions   instructions      Add sugar to a large bowl and level out    Pour calamansi juice and vinegar into the bowl, slightly over the surface of the sugar    Add nuoc mam, about 1/3 of current level    Mix in water to dilute    Adjust to taste, should be sweet, salty, and sour    Mix in minced garlic      </description>
     </item>
     
     <item>
