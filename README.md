@@ -2,4 +2,4 @@
 
 Welcome! 
 
-<https://nhuyhoa-recipes.netlify.app/>
+<https://nhuyhoa-recipes.netlify.app/post/>
