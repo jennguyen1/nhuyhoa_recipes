@@ -119,15 +119,6 @@
     </item>
     
     <item>
-      <title>Bo Xao Khoai Tay Chien (Beef and French Fries Stir Fry)</title>
-      <link>/bo-xao-khoai-tay-chien/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/bo-xao-khoai-tay-chien/</guid>
-      <description>Ingredients   Other  Meat  Veggie  Fruit      oyster sauce  beef  cilantro     pepper   fries     salt   garlic       mushroom       onion       shallot       tomato</description>
-    </item>
-    
-    <item>
       <title>Broth</title>
       <link>/broth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -651,6 +642,16 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
     </item>
     
     <item>
+      <title>LA Galbi (Korean Grilled Short Ribs)</title>
+      <link>/la-galbi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/la-galbi/</guid>
+      <description> Ingredients   Other  Meat  Veggie  Fruit      pepper  beef short ribs  garlic  asian pear    soy sauce   ginger     sugar   onion      
+ Instructions   instructions      Marinade: ratio of 1 soy : 1 sugar : 1 water, blended korean pear, garlic, onion, ginger, and pinch of pepper    Marinate short ribs (thinly sliced) overnight    Grill or broil 2 min each side + 1 extra min for a total of 5 min    Internal temp of meat should register medium well      </description>
+    </item>
+    
+    <item>
       <title>Mam Tom Chung (Shrimp Paste Ground Meat)</title>
       <link>/mam-tom-chung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -777,16 +778,6 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
     </item>
     
     <item>
-      <title>Poke Bowl</title>
-      <link>/poke-bowl/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/poke-bowl/</guid>
-      <description> Ingredients   Other  Meat  Veggie  Fruit      Tamaki Gold California Koshihikari short grain rice  eel  green onions     eel sauce  salmon fish  hanh kho     sesame oil  shrimp tempura  onion     soy sauce        
- Instructions   instructions      Cook short grain rice with half amount of water as usual    Mix 2 vinegar : 1 sugar : pinch salt into rice after done cooking    Marinate cubed salmon in mix of 1 tbsp soy sauce, 1 tbsp mirin, 1 tsp sesame oil, sliced onion and green onion    Add other ingredients if desired (Goi Salsa)    Eat with rice      </description>
-    </item>
-    
-    <item>
       <title>Rau Muong Xao Toi (Stir Fried Water Spinach)</title>
       <link>/rau-muong-xao-toi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -823,6 +814,15 @@ Ingredients   Other  Meat  Veggie  Fruit      nuoc mam  catfish  onion     peppe
       
       <guid>/salad-dressing/</guid>
       <description>Ingredients   Other  Meat  Veggie  Fruit      balsamic vinegar   garlic  date    cilantro   ginger     dijon mustard   shallot     mint       oil       oregano       pepper       rice vinegar       salt       sesame oil       white miso</description>
+    </item>
+    
+    <item>
+      <title>Shawarma Wrap</title>
+      <link>/shawarma-wrap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/shawarma-wrap/</guid>
+      <description>Ingredients   Other  Meat  Veggie  Fruit      garam masala  chicken thigh  cilantro  lime    garlic powder  lamb shoulder  corn     ground coriander  shrimp  cucumber     ground cumin   dill     mayo   garlic     naan   lettuce     onion powder   mint     oregano   tomato     parotta       pepper       salt       yogurt</description>
     </item>
     
     <item>

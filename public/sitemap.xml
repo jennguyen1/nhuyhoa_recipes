@@ -26,8 +26,6 @@
   </url><url>
     <loc>/bo-bia/</loc>
   </url><url>
-    <loc>/bo-xao-khoai-tay-chien/</loc>
-  </url><url>
     <loc>/broth/</loc>
   </url><url>
     <loc>/bun-cha-gio/</loc>
@@ -140,6 +138,8 @@
   </url><url>
     <loc>/kothu-parotta/</loc>
   </url><url>
+    <loc>/la-galbi/</loc>
+  </url><url>
     <loc>/mam-tom-chung/</loc>
   </url><url>
     <loc>/mango-sticky-rice/</loc>
@@ -170,8 +170,6 @@
   </url><url>
     <loc>/pesto/</loc>
   </url><url>
-    <loc>/poke-bowl/</loc>
-  </url><url>
     <loc>/rau-muong-xao-toi/</loc>
   </url><url>
     <loc>/post/</loc>
@@ -181,6 +179,8 @@
     <loc>/royal-tea/</loc>
   </url><url>
     <loc>/salad-dressing/</loc>
+  </url><url>
+    <loc>/shawarma-wrap/</loc>
   </url><url>
     <loc>/shrimp-burger/</loc>
   </url><url>
