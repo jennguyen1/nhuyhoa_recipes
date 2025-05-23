@@ -5,25 +5,23 @@ tags: ['Entree', 'Vietnamese', 'Vegetarianish']
 
 ```{r, echo = FALSE, warning = FALSE}
 library(tidyverse)
-library(RSQLite)
 library(knitr)
+source('../../../data/util.R')
 
 recipe_name <- 'Dau Xanh Xao (Green Bean Stir Fry)'
-connect <- RSQLite::dbConnect(drv = RSQLite::SQLite(), dbname = '../../../data/recipes.db')
-ingredients_query <- glue::glue('SELECT * FROM ingredients WHERE recipe = "{recipe_name}"')
-instructions_query <- glue::glue('SELECT * FROM instructions WHERE recipe = "{recipe_name}"')
-ingredients <- RSQLite::dbGetQuery(conn = connect, statement = ingredients_query)
-instructions <- RSQLite::dbGetQuery(conn = connect, statement = instructions_query)
-RSQLite::dbDisconnect(conn = connect)
+ingredients_query <- glue::glue("SELECT * FROM ingredients WHERE recipe = '{recipe_name}'")
+instructions_query <- glue::glue("SELECT * FROM instructions WHERE recipe = '{recipe_name}'")
+ingredients <- query_db(ingredients_query, 'md:recipes')
+instructions <- query_db(instructions_query, 'md:recipes')
 
 display_ingredients <- ingredients %>%
   dplyr::mutate(idx = ifelse(ingredients == 'any', 1, 0)) %>%
   dplyr::arrange(idx, ingredients) %>%
-  dplyr::group_by(recipe, type) %>%
+  dplyr::group_by(recipe, i_type) %>%
   dplyr::mutate(n = row_number()) %>%
   dplyr::ungroup() %>%
   dplyr::select(-idx) %>%
-  tidyr::spread(type, ingredients)
+  tidyr::spread(i_type, ingredients)
 add_cols <- purrr::discard(c('other', 'meat', 'veggie', 'fruit'), ~ .x %in% colnames(display_ingredients))
 for(c in add_cols) display_ingredients[,c] <- NA
 display_ingredients <- display_ingredients %>%
