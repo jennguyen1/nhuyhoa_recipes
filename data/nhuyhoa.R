@@ -1,4 +1,5 @@
 library(tidyverse)
+source("data/util.R")
 
 # note: order of running
 # delete index.html files
@@ -43,25 +44,23 @@ tags: ['", stringr::str_to_title(df$meal_type), "'", ifelse(is.na(df$tag), "", p
 
 ```{r, echo = FALSE, warning = FALSE}
 library(tidyverse)
-library(RSQLite)
 library(knitr)
+source('../../../data/util.R')
 
 recipe_name <- '", name, "'
-connect <- RSQLite::dbConnect(drv = RSQLite::SQLite(), dbname = '../../../data/recipes.db')
-ingredients_query <- glue::glue('SELECT * FROM ingredients WHERE recipe = \"{recipe_name}\"')
-instructions_query <- glue::glue('SELECT * FROM instructions WHERE recipe = \"{recipe_name}\"')
-ingredients <- RSQLite::dbGetQuery(conn = connect, statement = ingredients_query)
-instructions <- RSQLite::dbGetQuery(conn = connect, statement = instructions_query)
-RSQLite::dbDisconnect(conn = connect)
+ingredients_query <- glue::glue(\"SELECT * FROM ingredients WHERE recipe = '{recipe_name}'\")
+instructions_query <- glue::glue(\"SELECT * FROM instructions WHERE recipe = '{recipe_name}'\")
+ingredients <- query_db(ingredients_query, 'md:recipes')
+instructions <- query_db(instructions_query, 'md:recipes')
 
 display_ingredients <- ingredients %>%
   dplyr::mutate(idx = ifelse(ingredients == 'any', 1, 0)) %>%
   dplyr::arrange(idx, ingredients) %>%
-  dplyr::group_by(recipe, type) %>%
+  dplyr::group_by(recipe, i_type) %>%
   dplyr::mutate(n = row_number()) %>%
   dplyr::ungroup() %>%
   dplyr::select(-idx) %>%
-  tidyr::spread(type, ingredients)
+  tidyr::spread(i_type, ingredients)
 add_cols <- purrr::discard(c('other', 'meat', 'veggie', 'fruit'), ~ .x %in% colnames(display_ingredients))
 for(c in add_cols) display_ingredients[,c] <- NA
 display_ingredients <- display_ingredients %>%
@@ -103,15 +102,13 @@ display_instructions %>% knitr::kable(format = \"html\", table.attr = \"class = 
 run_recipes <- function(){
   "Regenerate recipes files"
 
-  connect <- RSQLite::dbConnect(drv = RSQLite::SQLite(), dbname = "data/recipes.db")
-  recipes <- RSQLite::dbGetQuery(conn = connect, statement = "SELECT * FROM recipes")
-  tags <- RSQLite::dbGetQuery(conn = connect, statement = "SELECT * FROM tags") %>%
+  recipes <- query_db("SELECT * FROM recipes", "md:recipes")
+  tags <- query_db("SELECT * FROM tags", "md:recipes") %>% 
     dplyr::mutate(tags = paste0("'", tag, "'")) %>%
     dplyr::group_by(recipe) %>%
     dplyr::summarise(tag = paste(tags, collapse = ", "))
   recipes <- dplyr::left_join(recipes, tags, "recipe") %>%
     dplyr::arrange(recipe)
-  RSQLite::dbDisconnect(conn = connect)
 
   # extract recipe pics todo
   recipe_info <- recipes
